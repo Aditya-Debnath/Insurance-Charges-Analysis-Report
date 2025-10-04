@@ -1,0 +1,1339 @@
+age,sex,bmi,children,smoker,region,blood_pressure,exercise_level,medical_history,charges
+19,female,27.9,0,yes,southwest,130,low,heart disease,21390.21964531987
+18,male,33.77,1,no,southeast,120,low,diabetes,12417.971143636416
+28,male,33.0,3,no,southeast,150,,heart disease,10212.235949724034
+33,male,22.705,0,no,northwest,N/A,low,N/A,7879.6059501136115
+32,male,28.88,0,no,northwest,150,low,none,10035.743823413995
+31,female,25.74,0,no,southeast,150,,N/A,15291.773146571242
+46,female,33.44,1,no,southeast,N/A,high,?,18284.21617286974
+37,female,27.74,3,no,northwest,130,high,diabetes,11173.357735876281
+37,male,29.83,2,no,northeast,,medium,?,13843.17457214754
+60,female,25.84,0,no,northwest,999,low,N/A,14059.70730051814
+25,male,26.22,0,no,northeast,140,,N/A,7111.007651909059
+62,female,26.29,0,yes,southeast,120,low,N/A,38928.34782126355
+23,male,34.4,0,no,southwest,160,,hypertension,8422.408629754429
+56,female,39.82,0,no,southeast,,low,diabetes,18042.882670596886
+27,male,42.13,0,yes,southeast,N/A,low,N/A,35175.3867092426
+19,male,24.6,1,no,southwest,999,high,N/A,4691.353905496222
+52,female,30.78,1,no,northeast,,,?,16582.96355568056
+23,male,23.845,0,no,northeast,N/A,low,?,8493.24001017673
+56,male,40.3,0,no,southwest,140,high,N/A,16332.484139174187
+30,male,35.3,0,yes,southwest,130,medium,none,28743.58486191438
+60,female,36.005,0,no,northeast,,high,hypertension,19578.953007000113
+30,female,32.4,1,no,southwest,N/A,high,?,11102.433967204972
+18,male,34.1,0,no,southeast,140,high,none,10328.554058562037
+34,female,31.92,1,yes,northeast,140,low,hypertension,31395.800424821326
+37,male,28.025,2,no,northwest,130,low,N/A,11355.835498309618
+59,female,27.72,3,no,southeast,150,medium,diabetes,18607.733932549094
+63,female,23.085,0,no,northeast,,,heart disease,14440.982242342347
+55,female,32.775,2,no,northwest,,,heart disease,14957.261138544502
+23,male,17.385,1,no,northwest,150,,N/A,9456.779883114636
+31,male,36.3,2,yes,southwest,120,medium,?,31651.669377355436
+22,male,35.6,0,yes,southwest,120,,none,24748.18730891159
+18,female,26.315,0,no,northeast,150,,diabetes,5644.5039119953435
+19,female,,5,no,southwest,999,high,hypertension,10663.265729728762
+63,male,28.31,0,no,northwest,160,low,N/A,12613.962768189189
+28,male,36.4,1,yes,southwest,140,low,diabetes,31447.111097275283
+19,male,20.425,0,no,northwest,160,high,diabetes,7334.62277769802
+62,?,32.965,3,no,northwest,140,high,?,15521.837697908255
+26,male,20.8,0,no,southwest,150,high,hypertension,6952.1900265467675
+35,male,36.67,1,yes,northeast,120,low,diabetes,32564.10403394339
+60,male,39.9,0,yes,southwest,999,,?,44133.87506854456
+24,female,26.6,0,,northeast,120,high,none,10835.207948527885
+31,female,36.63,2,no,southeast,160,medium,?,11665.2431883623
+41,male,21.78,1,no,southeast,120,high,none,15909.681464938636
+37,female,30.8,2,no,southeast,150,,none,12470.631900478014
+38,male,37.05,1,no,northeast,999,high,diabetes,11245.606635052722
+55,male,37.3,0,no,southwest,160,low,?,19014.410154136443
+18,female,38.665,2,no,northeast,999,high,none,13665.643069945803
+28,female,34.77,0,no,northwest,,,hypertension,12658.974360948192
+60,female,24.53,0,no,southeast,140,medium,diabetes,14165.498981961831
+36,male,,1,yes,southeast,120,,?,34863.6405933044
+18,female,35.625,0,no,northeast,999,high,?,9805.515963876625
+21,female,,2,no,northwest,130,,heart disease,6666.028541728696
+48,male,28.0,1,yes,southwest,,,?,31906.99906101773
+36,male,34.43,0,yes,southeast,120,medium,diabetes,31812.35021914838
+40,female,28.69,3,no,northwest,140,low,hypertension,14000.37782097578
+58,male,36.955,2,yes,northwest,999,high,?,42463.35293620128
+58,female,31.825,2,no,northeast,160,,heart disease,13786.417715866377
+18,male,31.68,2,yes,southeast,140,medium,diabetes,26736.14439123705
+53,female,22.88,1,yes,southeast,130,,none,36610.6925895936
+34,female,37.335,2,no,northwest,999,,N/A,10366.101107419454
+43,male,27.36,3,no,northeast,N/A,medium,N/A,14896.125730548953
+25,male,33.66,4,no,southeast,N/A,low,none,11060.967317758616
+64,male,24.7,1,no,northwest,150,low,?,11506.46178056338
+28,female,25.935,1,no,northwest,120,,N/A,7700.109958035115
+20,female,22.42,0,yes,northwest,160,,N/A,17505.33464672812
+19,female,28.9,0,no,southwest,150,high,none,7110.98493211431
+61,female,39.1,2,no,southwest,999,medium,?,20181.997402181543
+40,male,26.315,1,no,northwest,N/A,,?,11178.62816198238
+40,female,36.19,0,no,southeast,N/A,high,none,11926.343430079096
+28,male,23.98,3,yes,southeast,N/A,high,?,28450.580821632553
+27,female,24.75,0,yes,southeast,999,,?,22431.46012172214
+31,male,28.5,5,no,northeast,N/A,low,diabetes,15111.54498794915
+53,female,28.1,3,no,southwest,140,medium,diabetes,12265.897218157705
+58,male,32.01,1,no,southeast,,medium,none,16271.178047646783
+44,male,27.4,2,no,southwest,999,low,hypertension,13263.05441466606
+57,male,34.01,0,no,northwest,160,,N/A,13217.63372392313
+29,female,,1,no,southeast,,medium,diabetes,9964.325025177668
+21,male,35.53,0,no,southeast,150,,N/A,12007.099527282258
+22,female,,0,no,northeast,160,,heart disease,6377.762490390123
+41,female,32.965,0,no,northwest,,high,none,14376.357058339016
+31,male,26.885,1,no,northeast,130,low,hypertension,7941.836573165154
+45,female,38.285,0,no,northeast,N/A,,heart disease,12096.234371814242
+22,male,37.62,1,yes,southeast,130,,heart disease,30851.3757384543
+48,female,41.23,4,no,northwest,120,low,?,11580.361609401385
+37,female,34.8,2,yes,southwest,120,medium,heart disease,33239.2224903485
+45,male,22.895,2,yes,northwest,,high,none,27347.106164565655
+57,female,31.16,0,yes,northwest,130,medium,diabetes,36248.660991867255
+56,female,27.2,0,no,southwest,999,medium,none,13823.075376649884
+46,female,27.74,0,no,northwest,160,low,diabetes,13813.91026887787
+55,female,26.98,0,no,northwest,130,medium,heart disease,11353.72163564922
+21,female,39.49,0,no,southeast,120,,heart disease,13964.645913102755
+53,female,24.795,1,no,northwest,130,medium,hypertension,12733.870149972252
+59,male,29.83,3,yes,northeast,999,high,diabetes,38753.64940205363
+35,male,34.77,2,,northwest,130,high,heart disease,12781.504070698125
+64,female,31.3,2,yes,southwest,160,,?,40097.547097810624
+28,female,37.62,1,no,southeast,150,high,N/A,12261.8915953545
+54,female,30.8,3,no,southwest,999,medium,hypertension,14281.064132965497
+55,male,38.28,0,no,southeast,120,high,none,18072.195092824095
+56,male,19.95,0,yes,northeast,160,low,hypertension,31240.442701485896
+38,male,19.3,0,yes,southwest,130,high,N/A,20136.13979615071
+41,female,31.6,0,no,southwest,130,,diabetes,15540.874562426323
+30,male,25.46,0,no,northeast,150,low,none,13245.819231665671
+18,female,30.115,0,no,northeast,120,,none,7640.87898215906
+61,female,29.92,3,yes,southeast,120,,diabetes,46311.76164807777
+34,female,27.5,1,no,southwest,140,medium,hypertension,12211.697795493785
+20,male,28.025,1,yes,northwest,120,medium,heart disease,20768.778199132194
+19,female,28.4,1,no,southwest,150,medium,hypertension,8618.121139472014
+26,male,30.875,2,no,northwest,N/A,,N/A,12469.497975551896
+29,male,27.94,0,no,southeast,140,,?,7933.789218253485
+63,male,35.09,0,yes,southeast,140,,heart disease,47469.09672371995
+54,male,33.63,1,no,northwest,130,low,hypertension,17053.354005833273
+55,female,29.7,2,no,southwest,130,low,?,13709.883291916485
+37,male,30.8,0,no,southwest,120,medium,?,14853.285037021546
+21,female,35.72,0,no,northwest,140,high,diabetes,11556.005291798745
+52,male,32.205,3,no,northeast,,medium,N/A,17532.744672190776
+60,male,28.595,0,no,northeast,130,,N/A,14730.350197613825
+58,male,49.06,0,no,southeast,150,low,N/A,18512.61016685534
+29,female,27.94,1,yes,southeast,,,heart disease,27951.611174844147
+49,female,27.17,0,no,southeast,130,low,none,9761.719824115346
+37,female,23.37,2,no,northwest,999,,heart disease,8811.945184089918
+44,male,37.1,2,no,southwest,999,,hypertension,16147.578994206093
+18,male,23.75,0,no,northeast,130,,?,5944.1473858005875
+20,female,28.975,0,no,northwest,140,low,?,9304.027928283687
+44,male,31.35,1,yes,northeast,N/A,,none,37475.67349361865
+47,female,33.915,3,no,northwest,N/A,,hypertension,13109.461878034508
+26,female,28.785,0,no,northeast,140,medium,none,10519.331236079483
+19,female,28.3,0,yes,southwest,160,medium,?,18687.308854513536
+52,female,37.4,0,no,southwest,N/A,,heart disease,17357.07779913615
+32,female,17.765,2,yes,northwest,999,low,N/A,23606.606319670027
+38,male,34.7,2,no,southwest,150,,?,12129.052996169892
+59,female,26.505,0,no,northeast,140,low,diabetes,12421.520935804332
+61,female,22.04,0,no,northeast,120,medium,N/A,12877.574962943221
+53,female,35.9,2,no,southwest,999,,?,13428.193219653689
+19,male,25.555,0,no,northwest,150,low,heart disease,8840.514316972894
+20,female,28.785,0,no,northeast,150,high,none,11058.892985918184
+22,female,28.05,0,no,southeast,140,,N/A,10256.92906443626
+19,male,34.1,0,no,southwest,150,,heart disease,6252.301378932061
+22,male,25.175,0,no,northwest,140,high,hypertension,11296.3810902847
+54,female,31.9,3,no,southeast,N/A,medium,diabetes,18096.518454466914
+22,female,36.0,0,no,southwest,130,,N/A,11162.897471614253
+34,male,22.42,2,no,northeast,999,,none,7160.729278068451
+26,male,32.49,1,no,northeast,160,high,hypertension,10671.455328308495
+34,male,25.3,2,yes,southeast,130,high,heart disease,30226.83180922754
+29,male,29.735,2,no,northwest,999,medium,diabetes,10751.352335077245
+30,male,28.69,3,yes,northwest,140,medium,none,28082.88716316432
+29,female,38.83,3,no,southeast,999,low,heart disease,12850.418475784489
+46,male,30.495,3,yes,northwest,N/A,,heart disease,32514.355509342906
+51,female,37.73,1,no,southeast,140,low,N/A,15745.713216388864
+53,female,37.43,1,no,northwest,130,high,N/A,14679.364713191859
+19,male,28.4,1,no,southwest,120,,none,5379.534802997858
+35,male,24.13,1,no,northwest,120,,?,11960.11149825694
+48,male,29.7,0,no,southeast,,medium,?,15614.883988963056
+32,female,37.145,3,no,northeast,,,heart disease,14839.818966344677
+42,female,23.37,0,yes,northeast,999,,N/A,27610.257080789917
+40,female,25.46,1,no,northeast,120,,diabetes,12158.79498092278
+44,male,39.52,0,no,northwest,140,high,diabetes,12969.344084597687
+48,male,24.42,0,yes,southeast,150,,heart disease,36922.69941688956
+18,male,25.175,0,yes,northeast,140,,N/A,17329.43943130834
+30,male,35.53,0,yes,southeast,150,,none,29727.881476356455
+50,female,27.83,3,no,southeast,130,low,none,15312.271481040263
+42,female,26.6,0,yes,northwest,160,high,none,28401.37595721963
+18,female,36.85,0,,southeast,150,medium,diabetes,15989.606356385397
+54,male,39.6,1,no,southwest,120,low,N/A,18613.61599066996
+32,female,29.8,2,no,southwest,140,,N/A,12636.948305705479
+37,male,29.64,0,no,northwest,130,high,diabetes,9330.412257582428
+47,male,28.215,4,no,northeast,120,high,none,12133.52735398363
+20,female,37.0,5,no,southwest,130,,none,10121.087288754956
+32,female,33.155,3,no,northwest,160,,heart disease,13453.119754663432
+19,female,31.825,1,no,northwest,N/A,,?,11089.923445148366
+27,male,18.905,3,no,northeast,140,medium,hypertension,10684.336120031252
+63,male,41.47,0,no,southeast,999,,?,17838.07506196029
+49,male,30.3,0,no,southwest,140,high,N/A,10735.67424577762
+18,male,15.96,0,no,northeast,,,N/A,6247.289790234261
+35,female,34.8,1,no,southwest,160,,N/A,13639.238539842236
+24,female,33.345,0,no,northwest,140,,?,10351.422820191943
+63,female,37.7,0,,southwest,,medium,hypertension,18729.57240429964
+38,male,27.835,2,no,northwest,999,low,heart disease,13102.732264048167
+54,male,29.2,1,no,southwest,150,medium,?,16941.674951656307
+46,female,28.9,2,no,southwest,130,,hypertension,15043.07418678124
+41,Unknown,33.155,3,no,northeast,999,medium,none,10640.101875100992
+58,male,28.595,0,no,northwest,120,,none,12517.751836306341
+18,female,38.28,0,,southeast,160,low,N/A,11155.141826508658
+22,male,19.95,3,no,northeast,150,,diabetes,12068.3672229574
+44,female,26.41,0,no,northwest,120,low,N/A,10078.011185194417
+44,male,30.69,2,no,southeast,120,,diabetes,14260.479777638786
+36,male,41.895,3,yes,northeast,160,low,hypertension,36739.92356892153
+26,female,29.92,2,no,southeast,150,low,none,13156.710464457958
+30,female,30.9,3,no,southwest,N/A,low,?,11136.806741218139
+41,female,32.2,1,no,southwest,120,medium,diabetes,13644.204541079669
+29,female,32.11,2,no,northwest,120,medium,hypertension,8212.411229061028
+61,male,31.57,0,no,southeast,150,,none,17412.00662258985
+36,female,26.2,0,no,southwest,140,low,?,13182.05643202427
+25,male,25.74,0,no,southeast,120,high,diabetes,11141.587934583866
+56,female,26.6,1,no,northwest,130,,N/A,13045.735242930112
+18,male,34.43,0,no,southeast,150,low,N/A,12482.099808883591
+19,male,30.59,0,no,northwest,120,low,N/A,10394.372012539243
+39,female,32.8,0,no,southwest,160,medium,hypertension,13421.196608966007
+45,female,28.6,2,no,southeast,999,,N/A,15968.239793950022
+51,female,18.05,0,no,northwest,130,low,heart disease,12986.066307827692
+64,female,39.33,0,no,northeast,,low,none,16206.096637398616
+19,female,32.11,0,no,northwest,,,hypertension,7778.408340305966
+48,female,32.23,1,no,southeast,999,high,?,16858.168141259157
+60,female,24.035,0,no,northwest,,,N/A,16726.084876890054
+27,female,36.08,0,yes,southeast,999,,none,31307.015403451787
+46,male,22.3,0,no,southwest,120,high,diabetes,9488.482314166904
+28,female,28.88,1,no,northeast,130,,N/A,12922.712252500114
+59,male,26.4,0,no,southeast,130,low,none,15119.605916352204
+35,male,27.74,2,yes,northeast,140,,heart disease,28182.528954458903
+63,female,31.8,0,no,southwest,999,high,diabetes,11248.421979009752
+40,male,41.23,1,no,northeast,130,,heart disease,14473.171312164697
+20,male,33.0,1,no,southwest,140,,?,11291.601605875476
+40,male,30.875,4,no,northwest,150,medium,none,10870.871832963083
+24,male,28.5,2,no,northwest,140,low,heart disease,11354.738544838563
+34,female,26.73,1,no,southeast,160,low,?,9938.290485570009
+45,female,30.9,2,no,southwest,N/A,medium,none,12448.760600546158
+41,female,37.1,2,no,southwest,120,medium,none,12382.525123271358
+53,female,26.6,0,no,northwest,150,,heart disease,10921.518671698092
+27,male,23.1,0,no,southeast,N/A,medium,none,6689.045966845069
+26,female,29.92,1,no,southeast,N/A,,N/A,10635.688714576225
+24,female,23.21,0,no,southeast,150,high,none,8357.156876823372
+34,female,33.7,1,no,southwest,160,medium,hypertension,11620.760574112914
+53,female,33.25,0,,northeast,140,medium,?,15070.190665466274
+32,male,30.8,3,no,southwest,120,,none,8584.354228132084
+19,male,34.8,0,yes,southwest,140,low,hypertension,25866.503219278395
+42,male,24.64,0,yes,southeast,130,low,none,32462.32636377219
+55,male,33.88,3,no,southeast,140,,none,17289.8482215463
+28,male,38.06,0,no,southeast,,,heart disease,14237.777896407371
+58,female,41.91,0,no,southeast,150,high,N/A,18736.65486188233
+41,female,31.635,1,no,northeast,120,high,?,16477.90483222215
+47,male,25.46,2,no,northeast,140,,N/A,14974.351447128054
+42,female,36.195,1,no,northwest,120,high,diabetes,14855.703900152965
+59,female,27.83,3,no,southeast,120,low,heart disease,14238.28937022211
+19,female,17.8,0,no,southwest,130,high,heart disease,6528.130952274573
+59,male,,1,no,southwest,130,high,N/A,16658.06787507818
+39,male,24.51,2,no,northwest,150,,heart disease,12790.830791861312
+40,female,22.22,2,yes,southeast,160,,N/A,30732.71811594403
+18,female,26.73,0,no,southeast,,high,heart disease,13011.53718622908
+31,male,,2,no,southeast,N/A,medium,none,13462.533964420383
+19,male,29.07,0,yes,northwest,120,,N/A,19779.823004450613
+44,male,38.06,1,no,southeast,160,,N/A,14839.544917797704
+23,female,36.67,2,yes,northeast,N/A,,hypertension,30000.301525615654
+33,female,22.135,1,no,northeast,N/A,low,heart disease,11487.941786474057
+55,female,26.8,1,no,southwest,,high,heart disease,15238.134596349937
+40,male,35.3,3,no,southwest,150,medium,N/A,13814.112693942441
+63,female,27.74,0,yes,northeast,N/A,low,none,40189.65633521128
+54,male,30.02,0,no,northwest,,high,none,10661.882906552493
+60,female,38.06,0,no,southeast,N/A,,?,17311.838269650736
+24,male,35.86,0,no,southeast,120,,none,12394.509008623587
+19,male,20.9,1,no,southwest,120,medium,heart disease,9239.446687954509
+29,male,28.975,1,no,northeast,999,,hypertension,11580.679836748859
+18,male,17.29,2,yes,northeast,160,,N/A,15296.717527922236
+63,female,32.2,2,yes,southwest,140,high,diabetes,43947.05038792217
+54,male,34.21,2,yes,southeast,,,hypertension,46344.87131099808
+27,male,30.3,3,no,southwest,130,,diabetes,14781.54834687551
+50,male,31.825,0,yes,northeast,,,hypertension,35858.67226737565
+55,female,25.365,3,no,northeast,140,medium,none,18735.893111196594
+56,male,33.63,0,yes,northwest,160,,heart disease,37704.43032719163
+38,female,40.15,0,no,southeast,130,,diabetes,16072.26537948819
+51,male,24.415,4,no,northwest,140,medium,hypertension,13386.978414044246
+19,male,,0,yes,northwest,999,high,heart disease,20088.901462838057
+58,?,25.2,0,no,southwest,130,high,diabetes,13378.82729005878
+20,female,26.84,1,yes,southeast,120,low,N/A,24546.685919866126
+52,male,24.32,3,yes,northeast,140,,hypertension,33671.02900582547
+19,male,36.955,0,yes,northwest,,medium,N/A,24838.053643431813
+53,female,38.06,3,no,southeast,130,,none,13950.36405602417
+46,male,,3,yes,southeast,999,high,N/A,40517.075983971205
+40,male,19.8,1,yes,southeast,,medium,N/A,25332.53336145059
+59,female,32.395,3,no,northeast,N/A,,?,16819.071883133875
+45,male,30.2,1,,southwest,130,low,hypertension,13532.211287625796
+49,male,25.84,1,no,northeast,130,high,none,12802.1986295421
+18,male,29.37,1,no,southeast,999,medium,N/A,8752.373207523422
+50,male,34.2,2,yes,southwest,N/A,medium,heart disease,39574.9628297569
+41,male,37.05,2,no,northwest,140,medium,diabetes,14762.086661914605
+50,male,27.455,1,no,northeast,150,,N/A,15074.67923161447
+25,male,27.55,0,,northwest,140,,none,7659.854046933441
+47,?,,2,no,northeast,N/A,,N/A,16004.481213796715
+19,male,20.615,2,no,northwest,160,,diabetes,5284.5456712200585
+22,female,24.3,0,no,southwest,,medium,none,8898.229844986608
+59,male,31.79,2,no,southeast,999,high,hypertension,15312.379023074502
+51,female,21.56,1,no,southeast,140,,none,15191.24996775579
+40,female,28.12,1,yes,northeast,130,,hypertension,28418.94036218156
+54,male,40.565,3,yes,northeast,999,medium,none,45422.206243419
+30,male,27.645,1,no,northeast,120,,diabetes,7012.429855395636
+55,female,32.395,1,no,northeast,N/A,,diabetes,12603.517423819754
+52,female,31.2,0,no,southwest,,,none,13755.64363031544
+46,male,26.62,1,no,southeast,140,,N/A,14200.913160949438
+46,female,48.07,2,no,northeast,999,medium,diabetes,20026.64783485775
+63,female,26.22,0,no,northwest,,medium,hypertension,14413.369622686585
+59,female,36.765,1,yes,northeast,140,medium,hypertension,42988.42951217849
+52,male,26.4,3,no,southeast,999,low,heart disease,13502.108516877262
+28,female,33.4,0,no,southwest,130,,?,10351.53827558599
+29,male,29.64,1,no,northeast,120,medium,?,8964.36561985398
+25,male,45.54,2,yes,southeast,120,,?,37109.94093050315
+22,female,28.82,0,no,southeast,160,high,hypertension,10316.334191702203
+25,male,26.8,3,no,southwest,999,high,heart disease,8758.597926753326
+18,male,22.99,0,no,northeast,140,medium,?,8383.553629842954
+19,male,27.7,0,yes,southwest,120,high,?,22766.108507923702
+47,male,25.41,1,yes,southeast,N/A,high,none,30767.822447248007
+31,male,34.39,3,yes,northwest,120,low,none,27345.946157354036
+48,female,28.88,1,no,northwest,150,,none,11084.316737521578
+36,male,27.55,3,no,northeast,150,,N/A,10758.356146522352
+53,female,22.61,3,yes,northeast,120,low,?,33814.81422432785
+56,female,37.51,2,no,southeast,999,low,N/A,18522.15341138874
+28,female,33.0,2,no,southeast,160,high,heart disease,10438.931063100095
+57,female,38.0,2,no,southwest,120,,hypertension,16212.119036834125
+29,male,33.345,2,no,northwest,130,high,?,9715.05955165131
+28,female,27.5,2,no,southwest,,low,hypertension,12603.423615589563
+30,female,33.33,1,no,southeast,140,,none,12252.809610743174
+58,male,34.865,0,no,northeast,160,high,?,14360.88128727354
+41,female,33.06,2,no,northwest,130,,diabetes,14143.849634887109
+50,male,26.6,0,no,southwest,160,high,N/A,11699.323720904938
+19,female,24.7,0,no,southwest,130,medium,N/A,4420.59129519455
+43,male,,3,yes,southeast,140,high,?,36386.94714720116
+49,male,35.86,0,no,southeast,140,low,none,14665.088899515576
+27,female,31.4,0,,southwest,150,,N/A,7977.340569196243
+52,male,33.25,0,no,northeast,999,,none,15048.931294268717
+50,male,32.205,0,no,northwest,130,low,heart disease,13663.619413292958
+54,male,32.775,0,no,northeast,,medium,hypertension,15131.461155547955
+44,female,27.645,0,no,northwest,150,low,diabetes,16190.677109044205
+32,male,37.335,1,no,northeast,130,high,hypertension,11723.93398257971
+34,male,25.27,1,no,northwest,150,low,hypertension,5247.109695431725
+26,female,29.64,4,no,northeast,140,low,heart disease,9953.18009540669
+34,male,30.8,0,yes,southwest,160,medium,N/A,27510.15262922774
+57,male,40.945,0,no,northeast,N/A,high,diabetes,17655.58232279161
+29,male,27.2,0,,southwest,150,,N/A,11752.337202078452
+40,male,34.105,1,no,northeast,130,,?,13627.263652886195
+27,female,23.21,1,no,southeast,130,,hypertension,5946.176371856804
+45,?,36.48,2,yes,northwest,N/A,low,?,34341.81859507912
+64,female,33.8,1,yes,southwest,999,,none,41526.33482004231
+52,male,36.7,0,no,southwest,,medium,hypertension,12507.221227091495
+61,female,36.385,1,yes,northeast,140,,N/A,43736.68463289942
+52,male,27.36,0,yes,northwest,130,low,hypertension,31052.268317646198
+61,female,31.16,0,no,northwest,120,medium,none,12859.113392000067
+56,female,28.785,0,no,northeast,160,medium,heart disease,14015.288631838119
+43,female,35.72,2,no,northeast,150,low,?,12322.37914761323
+64,male,34.5,0,no,southwest,999,medium,?,16724.026594871862
+60,male,25.74,0,no,southeast,,low,N/A,17205.94006061644
+62,male,27.55,1,no,northwest,N/A,low,hypertension,14005.459946525958
+50,male,32.3,1,yes,northeast,160,high,N/A,33900.95213708284
+46,female,27.72,1,no,southeast,140,,heart disease,11459.138810745833
+24,female,27.6,0,no,southwest,999,medium,hypertension,9667.412678715664
+62,male,30.02,0,no,northwest,,medium,hypertension,13006.140977468745
+60,female,27.55,0,no,northeast,150,high,N/A,14014.299809417604
+63,male,36.765,0,no,northeast,150,high,N/A,15368.588122643081
+49,female,41.47,4,no,southeast,N/A,high,none,17783.272202512722
+34,female,29.26,3,no,southeast,120,,heart disease,15299.721253604266
+33,male,,2,no,southeast,N/A,,none,11407.794157766091
+46,male,33.345,1,no,northeast,140,,?,13928.758915973638
+36,female,29.92,1,no,southeast,999,low,hypertension,10905.066514789347
+19,male,27.835,0,no,northwest,999,medium,N/A,7118.479241277963
+57,female,23.18,0,no,northwest,130,,hypertension,11882.270162872494
+50,Unknown,25.6,0,no,southwest,120,low,hypertension,11952.834603028447
+30,female,27.7,0,no,southwest,120,medium,diabetes,9843.663510395125
+33,male,35.245,0,no,northeast,999,medium,?,9985.898465755427
+18,female,38.28,0,,southeast,999,high,diabetes,10952.693847870838
+46,male,27.6,0,no,southwest,160,high,hypertension,15443.410631335388
+46,male,43.89,3,no,southeast,,low,N/A,16666.736030169268
+47,male,29.83,3,no,northwest,160,high,hypertension,14941.10739510178
+23,male,41.91,0,no,southeast,160,medium,?,17457.086495260526
+18,female,20.79,0,no,southeast,120,high,diabetes,7284.340604159367
+48,female,32.3,2,no,northeast,130,,N/A,17171.553062574614
+35,male,30.5,1,no,southwest,150,high,hypertension,9251.880491439299
+19,female,21.7,0,yes,southwest,160,medium,heart disease,20954.539287169493
+21,female,,1,no,southwest,130,low,?,10056.08372750883
+21,female,21.89,2,no,southeast,N/A,,?,11609.934623151594
+49,female,30.78,1,no,northeast,140,high,heart disease,12213.82557298808
+56,female,32.3,3,no,northeast,160,medium,hypertension,16277.107310115096
+42,female,24.985,2,no,northwest,N/A,,?,9197.576677041587
+44,male,32.015,2,,northwest,150,,N/A,12449.407238183103
+18,male,30.4,3,no,northeast,140,,hypertension,6424.358702942697
+61,female,21.09,0,no,northwest,140,,hypertension,12723.784873702683
+57,female,22.23,0,no,northeast,150,medium,diabetes,11477.306989439538
+42,female,33.155,1,no,northeast,160,medium,?,12024.860354754255
+26,male,32.9,2,yes,southwest,120,high,?,29853.46966690262
+20,male,33.33,0,no,southeast,150,high,heart disease,6100.1318609912005
+23,female,28.31,0,yes,northwest,150,high,diabetes,20219.83899170706
+39,female,24.89,3,yes,northeast,150,,diabetes,27937.936978290123
+24,male,40.15,0,yes,southeast,140,,?,33275.40812970676
+64,female,30.115,3,no,northwest,,,hypertension,18162.077657175338
+62,male,31.46,1,no,southeast,130,high,diabetes,17195.184063470406
+27,female,17.955,2,yes,northeast,N/A,low,heart disease,20094.83136292241
+55,male,30.685,0,yes,northeast,120,,diabetes,38715.875892223055
+55,male,33.0,0,no,southeast,160,low,heart disease,17404.299195769217
+35,female,43.34,2,no,southeast,160,,diabetes,16156.869629747587
+44,male,22.135,2,no,northeast,N/A,,heart disease,14073.0810179873
+19,male,34.4,0,no,southwest,130,,diabetes,10118.814406420744
+58,female,39.05,0,no,southeast,150,medium,diabetes,17153.968486011574
+50,male,25.365,2,no,northwest,,,N/A,15211.223693718872
+26,female,22.61,0,no,northwest,120,,heart disease,8863.40950094298
+24,female,30.21,3,no,northwest,160,,heart disease,8873.638588985797
+48,male,35.625,4,no,northeast,N/A,,heart disease,13604.116185410987
+19,female,37.43,0,no,northwest,999,,none,9776.07519249822
+48,male,31.445,1,no,northeast,,medium,diabetes,14521.93789622902
+49,male,31.35,1,no,northeast,N/A,,heart disease,13525.157017718322
+46,female,32.3,2,no,northeast,,,?,13045.903096467266
+46,male,19.855,0,no,northwest,160,,none,10625.572497017025
+43,female,34.4,3,no,southwest,150,,N/A,17875.57153294081
+21,male,31.02,0,no,southeast,999,,heart disease,11228.236548074026
+64,male,25.6,2,no,southwest,130,,heart disease,16602.812334357062
+18,female,38.17,0,no,southeast,120,high,none,11401.930620159965
+51,female,20.6,0,no,southwest,130,,diabetes,12819.640542765335
+47,male,47.52,1,no,southeast,130,,?,18804.370610308823
+64,female,32.965,0,no,northwest,N/A,high,N/A,17009.896720955665
+49,male,32.3,3,no,northwest,,,heart disease,13817.047289115078
+31,male,20.4,0,no,southwest,120,medium,diabetes,10123.366699994496
+52,female,38.38,2,no,northeast,120,,?,16481.63803697936
+33,female,24.31,0,no,southeast,160,,?,12518.630506623702
+47,female,23.6,1,no,southwest,160,high,N/A,9718.760519559051
+38,male,21.12,3,no,southeast,120,,hypertension,11415.76854195687
+32,male,30.03,1,no,southeast,999,,?,16263.225063027858
+19,male,17.48,0,no,northwest,140,,hypertension,9711.99010416929
+44,female,20.235,1,yes,northeast,160,low,?,33064.13685065444
+26,female,17.195,2,yes,northeast,140,,N/A,21322.405990447875
+25,male,,5,no,southwest,N/A,medium,none,10909.182833870575
+19,female,35.15,0,no,northwest,999,medium,N/A,11325.648163736802
+43,female,35.64,1,no,southeast,120,,N/A,14473.647007344014
+52,male,34.1,0,no,southeast,999,,none,18398.088282477664
+36,female,22.6,2,yes,southwest,160,,none,24798.207041842532
+64,male,39.16,1,no,southeast,130,high,diabetes,21269.559141912323
+63,female,26.98,0,yes,northwest,N/A,medium,?,32419.991187272237
+64,male,33.88,0,yes,southeast,120,,diabetes,45648.66084949921
+61,male,35.86,0,yes,southeast,150,high,none,49017.37989067388
+40,male,32.775,1,yes,northeast,N/A,,hypertension,29007.69828467929
+25,male,30.59,0,no,northeast,,,hypertension,10853.051565545493
+48,male,30.2,2,no,southwest,140,,N/A,13054.689643047544
+45,male,24.31,5,no,southeast,999,,heart disease,17861.436120132916
+38,female,27.265,1,no,northeast,120,,N/A,7956.090576287083
+18,female,29.165,0,no,northeast,N/A,low,N/A,5981.742649878557
+21,female,16.815,1,no,northeast,999,high,heart disease,11747.59433258181
+27,female,,3,no,northwest,120,high,?,9689.599807959157
+19,male,33.1,0,no,southwest,160,,none,9395.670349155893
+29,female,20.235,2,no,northwest,N/A,low,hypertension,7916.577055830063
+42,male,26.9,0,no,southwest,160,,N/A,13090.416609943946
+60,female,30.5,0,no,southwest,N/A,low,heart disease,14511.77625429198
+31,male,28.595,1,no,northwest,160,,diabetes,9842.792985730282
+60,male,33.11,3,no,southeast,,medium,N/A,16483.006536375873
+22,male,31.73,0,no,northeast,999,medium,hypertension,10228.22538776901
+35,male,28.9,3,no,southwest,150,,none,13061.673558301065
+52,female,46.75,5,no,southeast,N/A,,N/A,22999.8761642828
+26,male,29.45,0,no,northeast,,high,N/A,11138.874131613971
+31,female,32.68,1,no,northwest,N/A,,?,11807.49196783605
+33,female,33.5,0,yes,southwest,160,medium,heart disease,29482.922788418793
+18,male,43.01,0,,southeast,120,,diabetes,15392.45871283365
+59,female,36.52,1,no,southeast,N/A,,diabetes,15714.345574137116
+56,male,26.695,1,yes,northwest,,,none,32714.768544229963
+45,female,33.1,0,no,southwest,160,medium,hypertension,12610.952655982403
+60,male,29.64,0,no,northeast,130,,none,13494.1600018363
+56,female,25.65,0,no,northwest,160,medium,N/A,13506.841147972082
+40,female,29.6,0,no,southwest,999,low,N/A,11587.065284751488
+35,male,38.6,1,no,southwest,150,medium,diabetes,14702.867813093642
+39,male,29.6,4,no,southwest,130,,hypertension,10959.492237779112
+30,male,24.13,1,no,northwest,999,high,heart disease,9533.954554669028
+24,male,23.4,0,no,southwest,999,medium,hypertension,11295.828953992244
+20,male,29.735,0,no,northwest,999,high,N/A,6859.329305469006
+32,male,46.53,2,no,southeast,120,low,heart disease,15317.719193570458
+59,male,37.4,0,no,southwest,999,,hypertension,17062.94041297482
+55,female,30.14,2,no,southeast,120,,hypertension,15170.645721508175
+57,female,30.495,0,no,northwest,999,high,heart disease,12751.399581074067
+56,male,39.6,0,no,southwest,140,,N/A,15379.118466212365
+40,female,33.0,3,no,southeast,,medium,hypertension,14498.401796518257
+49,female,36.63,3,no,southeast,130,high,heart disease,15674.12873722785
+42,male,30.0,0,yes,southwest,140,,?,37069.27812658748
+62,female,38.095,2,no,northeast,999,medium,?,15730.351298583264
+56,male,25.935,0,no,northeast,130,medium,N/A,13258.41876196797
+19,male,25.175,0,no,northwest,130,medium,heart disease,11241.641619745526
+30,female,28.38,1,yes,southeast,N/A,,?,29426.77881776925
+60,female,28.7,1,no,southwest,150,low,heart disease,15395.11681870078
+56,female,33.82,2,no,northwest,140,,hypertension,11234.379110296795
+28,female,24.32,1,no,northeast,150,high,N/A,11092.211289533201
+18,female,24.09,1,no,southeast,130,low,?,9770.357211675779
+27,male,32.67,0,no,southeast,120,high,hypertension,11817.711509247534
+18,female,30.115,0,,northeast,130,,none,6929.059789300822
+19,female,29.8,0,no,southwest,150,,none,7936.844084064431
+47,female,33.345,0,no,northeast,140,medium,N/A,13730.637672045652
+54,male,25.1,3,yes,southwest,999,medium,?,37509.7813446954
+61,male,28.31,1,yes,northwest,N/A,,?,36906.16574221963
+24,male,28.5,0,yes,northeast,N/A,low,?,19396.62558349754
+25,male,35.625,0,no,northwest,N/A,low,heart disease,7303.330077777089
+21,male,36.85,0,no,southeast,999,high,hypertension,10605.93860480011
+23,male,32.56,0,no,southeast,N/A,,?,13254.198170088475
+63,male,41.325,3,no,northwest,140,low,hypertension,14441.924430371124
+49,male,37.51,2,no,southeast,999,,N/A,17021.64612790428
+18,female,31.35,0,no,southeast,N/A,,?,9277.05543272725
+51,female,39.5,1,no,southwest,999,medium,N/A,15482.075270917838
+48,male,34.3,3,no,southwest,150,medium,?,17027.22903077572
+31,female,31.065,0,no,northeast,,medium,none,13254.821060336672
+54,female,21.47,3,no,northwest,,,diabetes,13038.13855115557
+19,male,28.7,0,no,southwest,140,,N/A,5172.477717127595
+44,female,38.06,0,yes,southeast,160,high,?,41486.754859585046
+53,male,31.16,1,no,northwest,120,medium,diabetes,16229.39082616534
+19,?,32.9,0,no,southwest,N/A,high,N/A,7882.3259903620965
+61,female,25.08,0,no,southeast,120,medium,heart disease,14014.107384792755
+18,female,25.08,0,no,northeast,999,high,?,10748.601006659786
+61,male,43.4,0,no,southwest,120,high,heart disease,16235.397073198146
+21,male,25.7,4,yes,southwest,140,,none,26258.472050803724
+20,male,27.93,0,no,northeast,140,high,?,9508.461158591193
+31,female,23.6,2,no,southwest,130,,none,11727.428564306021
+45,male,28.7,2,no,southwest,,high,diabetes,13381.579253633856
+44,female,23.98,2,no,southeast,N/A,medium,N/A,14877.60790322712
+62,female,39.2,0,no,southwest,130,high,hypertension,13822.347819973897
+29,male,34.4,0,yes,southwest,120,low,none,26655.09263959221
+43,male,26.03,0,no,northeast,160,medium,hypertension,10021.09163237703
+51,male,23.21,1,yes,southeast,130,low,hypertension,33881.499418529595
+19,male,30.25,0,yes,southeast,130,medium,N/A,24842.093266736185
+38,female,28.93,1,no,southeast,140,,diabetes,14078.56032360326
+37,male,30.875,3,no,northwest,160,,N/A,13416.472936181908
+22,male,,1,no,northwest,999,,?,6333.0737311918565
+21,male,23.75,2,no,northwest,120,low,none,8500.899959785766
+24,female,25.27,0,no,northeast,130,,hypertension,7645.100123067355
+57,female,28.7,0,no,southwest,160,medium,N/A,12574.524198837265
+56,male,32.11,1,no,northeast,,,N/A,18062.724018821747
+27,Unknown,33.66,0,no,southeast,N/A,medium,N/A,11375.237855360285
+51,male,22.42,0,no,northeast,160,low,none,12588.318461465002
+19,male,,0,no,southwest,,,diabetes,7325.22463943193
+39,male,28.3,1,yes,southwest,120,low,N/A,31158.11680038261
+58,male,35.7,0,no,southwest,160,medium,none,14979.577085767503
+20,male,35.31,1,no,southeast,,,hypertension,10146.274768019452
+45,male,30.495,2,no,northwest,160,,?,11512.871984417598
+35,female,31.0,1,no,southwest,160,low,heart disease,13499.056852420184
+31,male,30.875,0,no,northeast,N/A,,none,14147.957911085845
+50,female,27.36,0,no,northeast,,medium,heart disease,14438.796591845077
+32,female,44.22,0,,southeast,,high,N/A,11824.346078864042
+51,female,33.915,0,no,northeast,130,high,N/A,13888.506803718976
+38,female,37.73,0,no,southeast,120,low,none,19673.854140148396
+42,male,26.07,1,yes,southeast,N/A,medium,heart disease,33768.00532197503
+18,female,33.88,0,no,southeast,160,medium,N/A,9909.062844692871
+19,female,30.59,2,no,northwest,160,low,hypertension,9635.470753129051
+51,female,25.8,1,no,southwest,130,medium,diabetes,10870.659593138593
+46,male,39.425,1,no,northeast,120,,diabetes,14867.310623549527
+18,?,25.46,0,no,northeast,140,low,N/A,6560.201821108445
+57,male,42.13,1,yes,southeast,N/A,,heart disease,47380.9467327255
+62,female,31.73,0,no,northeast,130,medium,?,16937.608525967033
+59,male,29.7,2,,southeast,120,low,N/A,19167.37714595675
+37,male,36.19,0,no,southeast,N/A,medium,?,12324.968118557148
+64,male,40.48,0,no,southeast,160,low,?,16886.91898216941
+38,male,28.025,1,no,northeast,120,medium,heart disease,12586.446831466994
+33,female,38.9,3,no,southwest,120,,?,14401.66251735284
+46,female,30.2,2,no,southwest,999,,hypertension,14826.090597890865
+46,female,,1,no,southeast,120,medium,heart disease,12540.921563807575
+53,male,31.35,0,no,southeast,140,low,N/A,17324.78043988116
+34,female,38.0,3,no,southwest,120,high,hypertension,12596.719390509314
+20,female,31.79,2,no,southeast,140,,none,12903.52586479062
+63,female,36.3,0,no,southeast,160,,diabetes,19587.965799636353
+54,female,47.41,0,yes,southeast,140,high,N/A,49040.2009173285
+54,male,30.21,0,no,northwest,N/A,medium,N/A,11922.406472417826
+49,male,25.84,2,yes,northwest,160,low,N/A,29389.37701845247
+28,male,35.435,0,no,northeast,160,medium,hypertension,10090.682501157007
+54,female,46.7,2,no,southwest,140,,none,16248.041120363325
+25,female,28.595,0,no,northeast,,,heart disease,10120.135107978165
+43,female,46.2,0,yes,southeast,130,,none,43194.54506825906
+63,male,30.8,0,no,southwest,150,,hypertension,16135.18079887186
+32,female,28.93,0,no,southeast,,,N/A,11534.003343312224
+62,male,21.4,0,no,southwest,120,,diabetes,13922.060775241489
+52,female,31.73,2,no,northwest,999,,N/A,14202.779201952086
+25,female,41.325,0,no,northeast,150,medium,heart disease,12060.543994553895
+28,male,23.8,2,no,southwest,120,,?,10247.466012078321
+46,male,33.44,1,no,northeast,,medium,diabetes,11555.930000886783
+34,male,34.21,0,no,southeast,,medium,N/A,11570.130181559456
+35,female,34.105,3,yes,northwest,120,medium,diabetes,29940.72112957709
+19,male,35.53,0,no,northwest,160,,?,4604.961853366075
+46,female,19.95,2,no,northwest,120,,none,14186.8765159775
+54,female,,0,no,northeast,999,,hypertension,12828.220806198622
+27,male,30.5,0,no,southwest,,,N/A,10491.641804021858
+50,male,44.77,1,no,southeast,120,,heart disease,17722.576454480208
+18,female,32.12,2,no,southeast,140,,none,9371.43452509176
+19,female,30.495,0,no,northwest,150,low,N/A,6589.7202905266695
+38,female,40.565,1,no,northwest,140,low,none,14513.399326043122
+41,male,,2,no,northwest,999,,heart disease,13107.142192980262
+49,female,31.9,5,no,southwest,120,,N/A,15601.578115261935
+48,male,40.565,2,yes,northwest,N/A,,?,40404.47175116893
+31,female,29.1,0,no,southwest,999,medium,?,11814.75325604924
+18,female,37.29,1,no,southeast,160,high,heart disease,10808.639174544267
+30,female,43.12,2,no,southeast,140,,diabetes,15418.375462923603
+62,female,36.86,1,no,northeast,140,high,heart disease,16518.007252776242
+57,female,34.295,2,no,northeast,130,high,diabetes,19872.237816854653
+58,female,27.17,0,no,northwest,120,,N/A,13921.627644214972
+22,male,26.84,0,no,southeast,160,,diabetes,5598.747241836282
+31,female,38.095,1,yes,northeast,N/A,,N/A,36017.50325389486
+52,male,30.2,1,no,southwest,140,high,N/A,11590.788768777335
+25,female,23.465,0,no,northeast,140,,hypertension,12544.453466859439
+59,male,25.46,1,no,northeast,160,low,N/A,14515.435168349484
+19,male,30.59,0,no,northwest,999,,diabetes,8872.410864342248
+39,male,45.43,2,no,southeast,999,,hypertension,18016.761403027143
+32,female,23.65,1,no,southeast,120,,hypertension,10728.694556597166
+19,male,20.7,0,no,southwest,,low,N/A,8401.334991076037
+33,female,28.27,1,no,southeast,130,low,heart disease,11584.452370232075
+21,male,20.235,3,no,northeast,140,,heart disease,5573.1994610426955
+34,female,30.21,1,yes,northwest,,medium,?,28419.735131972764
+61,female,35.91,0,no,northeast,,,hypertension,17078.535630132472
+38,female,30.69,1,no,southeast,130,,N/A,13663.76370698357
+58,female,29.0,0,no,southwest,,high,heart disease,17015.039945852342
+47,male,19.57,1,no,northwest,,,N/A,11806.46953020084
+20,male,31.13,2,no,southeast,999,high,N/A,12079.19478731866
+21,female,21.85,1,yes,northeast,999,high,hypertension,20413.104437938473
+41,male,40.26,0,no,southeast,150,low,?,14100.138782986785
+46,female,33.725,1,no,northeast,N/A,,hypertension,12997.324368937168
+42,female,29.48,2,no,southeast,120,high,none,14562.100539801788
+34,female,33.25,1,no,northeast,,low,heart disease,10937.255109208656
+43,male,,2,no,southwest,150,,heart disease,14262.069814413044
+52,Unknown,37.525,2,no,northwest,N/A,high,heart disease,16547.308556306143
+18,female,39.16,0,no,southeast,150,,diabetes,13091.062511438911
+51,male,31.635,0,no,northwest,150,high,N/A,16192.51526816073
+56,female,25.3,0,no,southwest,120,,hypertension,12030.696627425716
+64,female,39.05,3,no,southeast,120,high,heart disease,16435.14617119846
+19,female,28.31,0,yes,northwest,160,,none,20818.762076806113
+51,female,34.1,0,no,southeast,130,low,heart disease,18145.236948967733
+27,female,25.175,0,no,northeast,130,,?,7974.5329975297445
+59,female,23.655,0,yes,northwest,160,low,N/A,32330.819482946095
+28,male,26.98,2,no,northeast,160,medium,N/A,10535.717054593502
+30,male,37.8,2,yes,southwest,999,,hypertension,31768.463026867015
+47,female,29.37,1,no,southeast,N/A,,diabetes,15777.9997185691
+38,female,34.8,2,no,southwest,150,,hypertension,13663.619888035117
+18,female,33.155,0,no,northeast,,high,heart disease,6820.584274397337
+34,female,19.0,3,no,northeast,160,low,?,13553.503825167913
+20,female,33.0,0,no,southeast,140,low,none,12168.020241158318
+47,female,,1,yes,southeast,130,,hypertension,37416.33527869169
+56,female,28.595,0,no,northeast,160,,diabetes,14608.558525396378
+49,male,25.6,2,yes,southwest,140,high,hypertension,31227.05124937364
+19,female,33.11,0,yes,southeast,140,high,N/A,24310.373245906296
+55,female,37.1,0,no,southwest,140,,heart disease,14161.237559167526
+30,male,31.4,1,no,southwest,999,medium,heart disease,12772.927227634382
+37,?,34.1,4,yes,southwest,999,high,heart disease,37919.819156052545
+49,female,21.3,1,no,southwest,,,heart disease,13984.677639500804
+18,male,33.535,0,yes,northeast,,high,heart disease,23543.30523932903
+59,male,28.785,0,no,northwest,140,low,heart disease,15378.440989739112
+29,female,26.03,0,no,northwest,N/A,medium,none,12117.471796295376
+36,male,28.88,3,no,northeast,999,,diabetes,10927.369085783292
+33,male,42.46,1,no,southeast,150,low,heart disease,17652.74283948767
+58,male,38.0,0,no,southwest,140,low,diabetes,18053.95308270865
+44,female,38.95,0,yes,northwest,150,medium,?,33056.80019743797
+53,male,36.1,1,no,southwest,150,,heart disease,16888.954077041613
+24,male,29.3,0,no,southwest,140,,hypertension,14054.741019417907
+29,female,35.53,0,no,southeast,130,,heart disease,12373.791733608621
+40,male,22.705,2,no,northeast,N/A,high,N/A,13411.33259816163
+51,male,39.7,1,no,southwest,140,low,none,15601.515532352338
+64,male,38.19,0,no,northeast,,high,hypertension,19326.045607356788
+19,female,24.51,1,no,northwest,140,,hypertension,6450.664728524222
+35,female,38.095,2,no,northeast,999,high,N/A,12940.141262171093
+39,male,26.41,0,yes,northeast,140,,heart disease,29056.571407127845
+56,male,33.66,4,no,southeast,130,high,none,20766.810283184375
+33,male,42.4,5,no,southwest,999,,hypertension,17885.558589694592
+42,male,28.31,3,yes,northwest,,,none,30336.5589153352
+61,male,33.915,0,no,northeast,120,,hypertension,18128.665053259767
+23,female,34.96,3,no,northwest,120,,heart disease,12631.396983746861
+43,male,35.31,2,no,southeast,150,,?,19084.208748608842
+48,male,30.78,3,no,northeast,N/A,low,hypertension,13754.244693962371
+39,male,26.22,1,no,northwest,150,,?,9859.569502849461
+40,female,23.37,3,no,northeast,130,high,hypertension,14472.621450426346
+18,male,28.5,0,no,northeast,160,high,diabetes,6448.748492871564
+58,female,32.965,0,no,northeast,,high,heart disease,14490.89486252823
+49,female,,2,no,southeast,N/A,,N/A,14112.851280450823
+53,female,39.6,1,no,southeast,,high,?,18807.69345085475
+48,female,31.13,0,no,southeast,120,,N/A,13566.784562740077
+45,female,36.3,2,no,southeast,150,,heart disease,14777.952081174766
+59,female,35.2,0,no,southeast,,,N/A,18793.21274279644
+52,female,25.3,2,yes,southeast,120,low,heart disease,40885.11897324663
+26,female,42.4,1,no,southwest,130,,N/A,14243.475594587762
+27,male,33.155,2,no,northwest,130,,?,12226.743617553755
+48,female,35.91,1,no,northeast,160,,diabetes,14767.462745938888
+57,female,28.785,4,no,northeast,,,N/A,16436.722723828476
+37,male,46.53,3,no,southeast,160,high,?,17013.46767583382
+57,female,23.98,1,no,southeast,999,high,hypertension,14387.811098204591
+32,female,31.54,1,no,northeast,N/A,,heart disease,9163.8766371024
+18,male,33.66,0,no,southeast,,medium,none,10065.791262265067
+64,female,22.99,0,yes,southeast,130,medium,none,39475.04155066337
+43,male,38.06,2,yes,southeast,150,high,heart disease,42771.327634202076
+49,male,28.7,1,no,southwest,120,medium,diabetes,13947.840424734344
+40,female,32.775,2,yes,northwest,140,high,N/A,31380.821832500176
+62,male,32.015,0,yes,northeast,160,,diabetes,36871.26300318494
+40,female,29.81,1,no,southeast,140,,none,10218.86486664496
+30,male,31.57,3,no,southeast,,low,?,13090.03928316262
+29,female,31.16,0,no,northeast,150,,heart disease,10042.985777276233
+36,male,29.7,0,no,southeast,160,high,heart disease,12895.160170592453
+41,female,31.02,0,no,southeast,140,high,diabetes,12512.084593054953
+44,female,43.89,2,yes,southeast,N/A,,?,45162.9530799344
+45,male,21.375,0,no,northwest,150,high,diabetes,8651.0191462608
+55,female,40.81,3,no,southeast,120,medium,N/A,21365.04404733124
+60,male,31.35,3,yes,northwest,N/A,medium,hypertension,41118.292495188965
+56,male,36.1,3,no,southwest,150,high,?,10352.539341798247
+49,female,23.18,2,no,northwest,999,high,hypertension,11751.982263464786
+21,female,17.4,1,no,southwest,160,medium,N/A,4260.571382675216
+19,male,20.3,0,no,southwest,130,high,hypertension,6917.551265043392
+39,male,35.3,2,yes,southwest,120,high,none,31173.970048602707
+53,male,24.32,0,no,northwest,,,hypertension,7559.86708138489
+33,female,18.5,1,no,southwest,N/A,low,N/A,9130.87264719401
+53,male,26.41,2,no,northeast,N/A,medium,hypertension,14676.97919862816
+42,male,26.125,2,no,northeast,140,,heart disease,12476.717204675757
+40,male,41.69,0,no,southeast,160,low,diabetes,19714.72903860655
+47,female,24.1,1,no,southwest,,high,none,13786.851364896598
+27,male,31.13,1,yes,southeast,130,high,heart disease,28795.519157793387
+21,male,27.36,0,no,northeast,150,,heart disease,6803.064089296212
+47,male,36.2,1,no,southwest,130,high,N/A,13674.416386953386
+20,male,32.395,1,no,northwest,160,,diabetes,8462.347956665613
+24,male,23.655,0,no,northwest,160,,diabetes,8980.751185287798
+27,female,34.8,1,no,southwest,999,low,?,10659.519177134907
+26,Unknown,40.185,0,no,northwest,999,,none,12011.043755393404
+53,female,32.3,2,no,northeast,130,medium,N/A,16012.829090978625
+41,male,35.75,1,yes,southeast,150,,none,38205.50439675616
+56,male,33.725,0,no,northwest,130,high,?,13684.18054013074
+23,female,39.27,2,no,southeast,160,high,hypertension,14119.546850053446
+21,female,,0,no,southeast,160,,heart disease,12431.274742595404
+50,female,44.745,0,no,northeast,140,,none,12460.022853724047
+53,male,41.47,0,no,southeast,999,,heart disease,21681.888804377144
+34,female,26.41,1,no,northwest,,low,N/A,8577.874176312238
+47,?,29.545,1,no,northwest,,,hypertension,9892.613207639646
+33,female,32.9,2,,southwest,,low,N/A,13868.724742569462
+51,female,38.06,0,yes,southeast,140,,hypertension,43003.669719161044
+49,male,,3,no,northwest,120,low,hypertension,13986.036521831133
+31,female,30.495,3,no,northeast,,,heart disease,12990.288012898098
+36,female,27.74,0,no,northeast,160,,N/A,12388.792512585802
+18,male,35.2,1,no,southeast,140,high,N/A,12264.737935247438
+50,female,23.54,2,no,southeast,130,low,none,14411.191800762026
+43,female,30.685,2,no,northwest,999,medium,N/A,6519.50541548756
+20,male,40.47,0,no,northeast,999,high,none,12593.68692014469
+24,female,22.6,0,no,southwest,150,,diabetes,9384.472495740312
+60,male,28.9,0,no,southwest,130,low,diabetes,13660.685827011068
+49,female,22.61,1,no,northwest,150,,diabetes,10534.656780633624
+60,male,24.32,1,no,northwest,140,medium,?,14577.106239299701
+51,female,36.67,2,no,northwest,N/A,,N/A,13904.93111183021
+58,female,33.44,0,no,northwest,,high,?,12016.299359405286
+51,female,40.66,0,no,northeast,120,low,N/A,13170.70325547335
+53,male,36.6,3,no,southwest,130,medium,none,16927.045489868855
+62,male,37.4,0,no,southwest,130,low,?,17403.313270839782
+19,male,35.4,0,no,southwest,130,,?,12706.174137703269
+50,female,27.075,1,no,northeast,150,high,?,11479.644094927484
+30,female,39.05,3,yes,southeast,140,low,hypertension,38685.966749936
+41,male,28.405,1,no,northwest,130,,none,11576.146517820434
+29,female,21.755,1,,northeast,N/A,high,diabetes,7008.469320792613
+18,female,40.28,0,no,northeast,130,,none,11465.201296943442
+41,female,36.08,1,no,southeast,999,low,hypertension,16282.782540101578
+35,male,24.42,3,yes,southeast,,high,N/A,34096.93092384311
+53,male,21.4,1,no,southwest,120,,none,10510.460610654894
+24,female,30.1,3,no,southwest,,,?,7400.832221456387
+48,female,27.265,1,no,northeast,999,,diabetes,14929.603355532507
+59,female,32.1,3,no,southwest,999,low,diabetes,15242.6557543592
+49,female,34.77,1,no,northwest,120,high,N/A,14316.020717289524
+37,female,38.39,0,yes,southeast,N/A,medium,none,36229.76836155387
+26,male,23.7,2,no,southwest,140,high,hypertension,9638.877120776227
+23,male,31.73,3,yes,northeast,999,,N/A,24642.580059130545
+29,male,35.5,2,yes,southwest,140,,none,36455.518312286986
+45,male,24.035,2,,northeast,999,medium,heart disease,11631.928180544232
+27,male,29.15,0,yes,southeast,160,low,diabetes,27131.09829434501
+53,male,34.105,0,yes,northeast,120,medium,hypertension,35345.34024984389
+31,female,26.62,0,no,southeast,999,low,?,11291.266094401111
+50,male,26.41,0,no,northwest,160,medium,hypertension,13173.603035972701
+50,female,30.115,1,no,northwest,,low,?,13874.040793387008
+34,male,27.0,2,no,southwest,150,low,hypertension,10809.85395904194
+19,male,21.755,0,no,northwest,160,medium,diabetes,5235.714229107481
+47,female,36.0,1,no,southwest,130,medium,?,15540.788163640069
+28,male,30.875,0,no,northwest,999,low,none,9418.666368701906
+37,female,26.4,0,yes,southeast,160,,?,27591.032267692928
+21,male,28.975,0,no,northwest,140,medium,N/A,6825.799997867238
+64,male,,0,no,northwest,150,high,none,14000.680128431915
+58,female,22.77,0,no,southeast,N/A,,N/A,13692.442866408657
+24,male,33.63,4,no,northeast,999,low,hypertension,6101.189551090091
+31,male,27.645,2,no,northeast,130,low,none,11850.637970964455
+39,female,22.8,3,no,northeast,N/A,,hypertension,11715.070417037596
+47,female,27.83,0,yes,southeast,160,,heart disease,34103.12935788455
+30,male,37.43,3,no,northeast,N/A,,hypertension,13527.043904586468
+18,male,38.17,0,yes,southeast,N/A,medium,hypertension,29038.5790923908
+22,female,34.58,2,no,northeast,150,,N/A,10309.560736972326
+23,male,35.2,1,no,southwest,,low,?,10350.313365309356
+33,male,27.1,1,yes,southwest,N/A,,heart disease,26206.157908385605
+27,male,26.03,0,,northeast,N/A,high,hypertension,10061.072791131955
+45,female,,2,no,northeast,999,medium,hypertension,13182.39357308127
+57,female,,0,no,northwest,,,heart disease,15418.652349847767
+47,male,32.3,1,no,southwest,150,low,heart disease,13643.413419261567
+42,female,29.0,1,no,southwest,130,medium,none,11628.639780651594
+64,female,39.7,0,no,southwest,160,low,N/A,18696.420850335635
+38,female,19.475,2,no,northwest,150,,heart disease,9569.450329827485
+61,male,36.1,3,no,southwest,150,high,heart disease,16356.610716565321
+53,female,26.7,2,no,southwest,120,,diabetes,12289.702047269444
+44,female,36.48,0,no,northeast,150,high,?,16206.506615444603
+19,female,28.88,0,yes,northwest,,,heart disease,22418.466638211452
+41,male,34.2,2,no,northwest,120,medium,N/A,13339.57242966998
+51,male,33.33,3,no,southeast,160,,?,15243.511371249046
+40,male,32.3,2,no,northwest,N/A,high,?,17112.9765772687
+45,male,,0,no,northeast,999,high,hypertension,16000.978296771184
+35,male,34.32,3,no,southeast,999,high,hypertension,16821.526319688477
+53,male,28.88,0,no,northwest,160,low,hypertension,14075.609105854082
+30,male,,3,yes,southwest,160,medium,hypertension,28468.8979981258
+18,male,41.14,0,no,southeast,,,diabetes,13682.271755073365
+51,male,35.97,1,no,southeast,140,,heart disease,17455.478900762213
+50,female,27.6,1,yes,southwest,N/A,,hypertension,34415.87230984015
+31,female,29.26,1,,southeast,160,high,none,11241.778157766976
+35,female,27.7,3,no,southwest,150,high,hypertension,11876.211990210273
+60,male,36.955,0,no,northeast,,high,heart disease,15258.893882248054
+21,male,36.86,0,no,northwest,999,,hypertension,11844.657902168676
+29,male,22.515,3,no,northeast,130,,diabetes,9520.575488960509
+62,female,29.92,0,no,southeast,,low,N/A,21454.349824269644
+39,female,41.8,0,no,southeast,999,medium,N/A,14780.163713444363
+19,male,27.6,0,no,southwest,120,low,heart disease,8906.393609582014
+22,female,23.18,0,no,northeast,,,N/A,11657.320442071112
+53,male,20.9,0,yes,southeast,999,high,N/A,32180.542994259136
+39,female,31.92,2,no,northwest,140,medium,none,14736.524505164998
+27,male,28.5,0,yes,northwest,,,heart disease,21654.71953548737
+30,male,44.22,2,no,southeast,,,heart disease,15739.63948051611
+30,female,22.895,1,no,northeast,N/A,,N/A,9420.10493632675
+58,female,33.1,0,no,southwest,160,medium,N/A,15178.641021143385
+33,male,24.795,0,yes,northeast,N/A,medium,N/A,28276.95951592618
+42,female,26.18,1,no,southeast,,,?,15914.796658665628
+64,female,35.97,0,no,southeast,160,,diabetes,20130.863681819927
+21,male,22.3,1,no,southwest,999,low,hypertension,7945.980780135958
+18,female,42.24,0,yes,southeast,130,medium,diabetes,27870.909923805924
+23,male,26.51,0,no,southeast,130,medium,heart disease,11241.89545529256
+45,female,35.815,0,,northwest,,medium,none,13352.87958634953
+40,female,41.42,1,no,northwest,140,,hypertension,12531.990025821975
+19,female,36.575,0,no,northwest,120,,none,10322.396404842995
+18,male,,0,no,southeast,999,high,?,10233.514542111241
+25,male,25.84,1,no,northeast,160,,heart disease,9089.904462820112
+46,female,30.8,3,no,southwest,,medium,?,15035.68003164731
+33,female,42.94,3,no,northwest,999,,heart disease,18598.127177794486
+54,male,21.01,2,no,southeast,,low,none,13751.131537658246
+28,male,22.515,2,no,northeast,140,medium,none,11734.433401376215
+36,male,34.43,2,no,southeast,150,low,none,19024.051790557703
+20,female,31.46,0,no,southeast,150,medium,heart disease,11386.21726561625
+24,female,24.225,0,no,northwest,140,,N/A,8752.647492064365
+23,male,37.1,3,no,southwest,160,,none,14141.893924807178
+47,female,26.125,1,yes,northeast,N/A,high,?,32139.96470195524
+33,female,35.53,0,yes,northwest,140,low,hypertension,29942.806993162605
+45,male,33.7,1,no,southwest,,,heart disease,11338.222698456924
+26,male,17.67,0,no,northwest,160,,?,7113.814634615342
+18,female,31.13,0,no,southeast,130,,diabetes,12913.025997105036
+44,female,29.81,2,no,southeast,140,low,diabetes,14878.778343631393
+60,male,24.32,0,no,northwest,160,high,hypertension,17342.618735445845
+64,female,31.825,2,no,northeast,140,,N/A,16956.307291982164
+56,male,31.79,2,yes,southeast,140,medium,none,44450.595899915825
+36,male,28.025,1,yes,northeast,N/A,,heart disease,27219.971270792306
+41,male,30.78,3,yes,northeast,N/A,,?,33171.9876024626
+39,male,21.85,1,no,northwest,,,none,9478.165998563383
+63,male,33.1,0,no,southwest,160,medium,?,16477.243415902754
+36,female,25.84,0,no,northwest,160,high,heart disease,11633.52300735816
+28,female,23.845,2,no,northwest,120,high,diabetes,8220.111090715518
+58,male,34.39,0,no,northwest,140,medium,none,12682.904032315313
+36,male,33.82,1,no,northwest,150,,hypertension,12152.058529824144
+42,male,35.97,2,no,southeast,140,,N/A,17142.956059696862
+36,male,31.5,0,no,southwest,140,medium,hypertension,14996.63924156156
+56,female,28.31,0,no,northeast,160,low,N/A,11888.232303038692
+35,female,23.465,2,no,northeast,140,,?,7056.360197215981
+59,female,31.35,0,no,northwest,999,high,none,13531.220563487086
+21,male,31.1,0,no,southwest,140,medium,none,12255.757926412538
+59,male,24.7,0,no,northeast,999,high,N/A,11669.69075245104
+23,female,32.78,2,yes,southeast,N/A,,diabetes,28638.802181095834
+57,female,29.81,0,yes,southeast,150,high,heart disease,43659.31644795547
+53,male,30.495,0,no,northeast,,medium,hypertension,13683.159662548811
+60,female,32.45,0,yes,southeast,160,,?,43090.090470260475
+51,female,34.2,1,no,southwest,140,low,hypertension,15400.431838824756
+23,male,50.38,1,no,southeast,999,medium,hypertension,16990.201784061028
+27,female,24.1,0,no,southwest,999,,?,8775.435587367701
+55,male,32.775,0,no,northwest,N/A,medium,?,10583.74055495579
+37,?,30.78,0,yes,northeast,999,,none,29534.086405195594
+61,male,32.3,2,no,northwest,,medium,hypertension,16309.282100032788
+46,female,35.53,0,yes,northeast,130,low,heart disease,29836.56242819287
+53,female,23.75,2,no,northeast,120,low,heart disease,16026.61957967093
+49,female,23.845,3,yes,northeast,,,N/A,32631.581275556975
+20,female,29.6,0,no,southwest,150,high,?,5803.111788561763
+48,female,33.11,0,yes,southeast,,,none,37636.17194868632
+25,male,24.13,0,yes,northwest,N/A,,heart disease,24329.474975198114
+25,female,32.23,1,no,southeast,N/A,high,diabetes,13345.955892248425
+57,male,28.1,0,no,southwest,,low,none,14690.981857731265
+37,female,47.6,2,yes,southwest,140,low,none,39462.976345169955
+38,female,28.0,3,no,southwest,130,medium,heart disease,8008.347465743422
+55,female,33.535,2,no,northwest,140,,diabetes,14874.969024377924
+36,female,19.855,0,no,northeast,140,,N/A,11567.219544105807
+51,male,25.4,0,no,southwest,,,heart disease,11214.257064854753
+40,male,29.9,2,no,southwest,160,medium,diabetes,13923.258598994127
+18,male,37.29,0,no,southeast,160,,none,9839.109059627008
+57,male,43.7,1,no,southwest,160,high,diabetes,18994.749371055932
+61,male,23.655,0,no,northeast,130,medium,none,11426.85466948432
+25,female,,3,no,southwest,140,high,heart disease,11594.418375484009
+50,male,36.2,0,no,southwest,120,medium,?,12224.786259707453
+26,female,29.48,1,no,southeast,150,,heart disease,8193.049408315914
+42,male,24.86,0,no,southeast,160,high,hypertension,11668.910299941914
+43,male,30.1,1,no,southwest,160,high,hypertension,12358.578913294465
+44,male,21.85,3,no,northeast,N/A,high,hypertension,12291.90601189352
+23,female,28.12,0,no,northwest,140,medium,heart disease,6873.244671137725
+49,female,27.1,1,no,southwest,140,,N/A,12316.78013694467
+33,male,33.44,5,no,southeast,130,,heart disease,14543.25839151195
+41,male,28.8,1,no,southwest,130,high,?,14686.015956993473
+37,female,29.5,2,no,southwest,160,,diabetes,14477.467349169894
+22,male,34.8,3,no,southwest,140,,heart disease,11577.61973492789
+23,male,27.36,1,no,northwest,120,,heart disease,11901.351711232233
+21,female,22.135,0,no,northeast,150,high,none,7624.005172478322
+51,female,37.05,3,yes,northeast,,high,none,44823.851791171066
+25,male,26.695,4,no,northwest,140,medium,none,12780.69163985086
+32,male,28.93,1,yes,southeast,N/A,,heart disease,29610.35206826387
+57,male,28.975,0,yes,northeast,,,N/A,35107.37712632516
+36,female,,0,no,northwest,140,high,diabetes,10529.181515718596
+22,male,39.5,0,no,southwest,999,,diabetes,13579.146717481482
+57,male,33.63,1,no,northwest,130,high,?,13395.014821989902
+64,female,,0,yes,northwest,N/A,,N/A,38710.949273671955
+36,female,29.04,4,no,southeast,150,,N/A,14472.308267823435
+54,male,24.035,0,no,northeast,160,high,diabetes,15761.58859511741
+47,male,,2,yes,southeast,N/A,low,hypertension,36168.56033954441
+62,male,32.11,0,no,northeast,140,,none,15235.473956032896
+61,female,44.0,0,no,southwest,160,,none,16545.881718204884
+43,female,20.045,2,yes,northeast,140,,diabetes,30421.227972371267
+19,male,25.555,1,no,northwest,160,low,N/A,12218.76470756895
+18,female,40.26,0,no,southeast,150,medium,?,13404.375356298182
+19,female,,0,no,northwest,130,low,hypertension,10380.785589456855
+49,male,22.515,0,no,northeast,150,low,diabetes,10712.629426946021
+60,male,,0,yes,southeast,999,,none,44339.82964341583
+26,male,27.265,3,no,northeast,120,,heart disease,8709.369957747222
+49,male,36.85,0,no,southeast,130,low,N/A,16453.837191347677
+60,female,,0,no,southwest,150,medium,heart disease,13878.353831112567
+26,female,29.355,2,no,northeast,999,high,?,9963.385048580732
+27,male,32.585,3,no,northeast,120,low,diabetes,12780.655913288409
+44,female,32.34,1,no,southeast,999,low,none,17688.60727644919
+63,male,39.8,3,no,southwest,140,medium,hypertension,16259.119019453574
+32,?,24.6,0,yes,southwest,,,heart disease,23244.125237810546
+22,male,28.31,1,no,northwest,140,low,hypertension,9453.78009053696
+18,male,31.73,0,yes,northeast,160,low,?,22988.607988916057
+59,female,26.695,3,no,northwest,130,,none,15158.236112487139
+44,female,27.5,1,no,southwest,140,medium,heart disease,11180.754580194913
+33,male,24.605,2,no,northwest,N/A,low,?,9019.562203809763
+24,female,33.99,0,no,southeast,999,,hypertension,9618.163223186804
+43,female,,0,yes,northwest,130,low,hypertension,30945.03138095745
+45,male,22.895,0,yes,northeast,,high,heart disease,27713.189549203824
+61,female,28.2,0,no,southwest,N/A,,none,16300.73946570743
+35,female,34.21,1,no,southeast,140,high,hypertension,15261.827902840078
+62,female,25.0,0,no,southwest,160,low,diabetes,14947.456573142214
+62,female,33.2,0,no,southwest,150,medium,?,18586.86129764543
+38,male,31.0,1,no,southwest,160,,heart disease,13892.52404596172
+34,male,35.815,0,no,northwest,N/A,high,N/A,14523.592046136688
+43,male,23.2,0,no,southwest,120,,N/A,9757.509793762547
+50,male,32.11,2,no,northeast,140,medium,none,16705.27793443618
+19,female,23.4,2,no,southwest,N/A,high,diabetes,8985.077212903298
+57,female,20.1,1,no,southwest,120,,hypertension,12855.485798057844
+62,female,39.16,0,no,southeast,120,low,N/A,22638.24874021069
+41,male,34.21,1,no,southeast,999,,none,13385.197274194285
+26,male,46.53,1,no,southeast,130,high,?,15128.58990955755
+39,female,32.5,1,no,southwest,999,high,diabetes,13234.438474704604
+46,male,25.8,5,no,southwest,140,low,diabetes,13316.887027944247
+45,female,35.3,0,no,southwest,120,,none,15637.68527006903
+32,male,37.18,2,no,southeast,,,none,17556.88070291252
+59,female,27.5,0,no,southwest,N/A,low,hypertension,16731.392913349235
+44,male,29.735,2,no,northeast,150,,none,11076.243316249773
+39,female,24.225,5,no,northwest,120,low,hypertension,10189.66163456369
+18,male,26.18,2,no,southeast,N/A,medium,hypertension,11527.099959007688
+53,male,29.48,0,no,southeast,,high,heart disease,13598.8788703442
+18,male,23.21,0,no,southeast,150,medium,diabetes,8109.342435866714
+50,female,46.09,1,no,southeast,999,,?,16825.65149818404
+18,female,40.185,0,no,northeast,999,,diabetes,6872.215454333324
+19,male,22.61,0,no,northwest,130,,diabetes,3593.322083635934
+62,male,39.93,0,no,southeast,N/A,low,heart disease,17851.590698966687
+56,female,,1,no,southwest,120,,hypertension,16208.816571800091
+42,male,35.8,2,no,southwest,160,medium,hypertension,14558.872877976171
+37,male,34.2,1,yes,northeast,999,medium,none,32784.452807059744
+42,male,31.255,0,no,northwest,999,medium,heart disease,12954.579821593252
+25,male,29.7,3,yes,southwest,130,medium,none,26826.879164767535
+57,male,18.335,0,no,northeast,150,,heart disease,14681.303701349067
+51,male,42.9,2,yes,southeast,130,medium,none,47115.78850211834
+30,female,28.405,1,no,northwest,,,N/A,10464.964258933793
+44,male,30.2,2,yes,southwest,120,,diabetes,36882.615074588655
+34,male,27.835,1,yes,northwest,N/A,medium,diabetes,25888.561260282826
+31,male,39.49,1,no,southeast,140,low,?,14863.211750678965
+54,male,30.8,1,yes,southeast,140,high,hypertension,41099.70187115796
+24,male,26.79,1,no,northwest,N/A,high,?,11694.76576369998
+43,male,34.96,1,yes,northeast,150,high,N/A,37170.138634116636
+48,male,36.67,1,no,northwest,,,?,12083.501955841431
+19,female,39.615,1,no,northwest,999,medium,diabetes,8977.0097138538
+29,female,25.9,0,no,southwest,150,,hypertension,9907.873452244301
+63,female,35.2,1,no,southeast,999,,N/A,18933.10546004766
+46,male,24.795,3,no,northeast,999,low,diabetes,16768.706169780096
+52,male,36.765,2,no,northwest,140,low,none,16473.101724188717
+35,male,27.1,1,no,southwest,150,high,heart disease,11156.780395756894
+51,male,24.795,2,yes,northwest,,high,N/A,33158.65701966163
+44,male,25.365,1,no,northwest,130,high,hypertension,8789.983491848703
+21,male,25.745,2,no,northeast,999,medium,?,9861.750783545525
+39,female,34.32,5,no,southeast,160,,?,17084.949023488323
+50,female,28.16,3,no,southeast,160,,N/A,11495.378358401322
+34,female,23.56,0,,northeast,130,,hypertension,8185.508047394528
+22,?,20.235,0,no,northwest,160,,N/A,6867.319075551658
+19,female,40.5,0,no,southwest,120,high,hypertension,9230.806039724152
+26,male,35.42,0,no,southeast,999,low,?,12137.544401013765
+29,male,22.895,0,yes,northeast,130,high,diabetes,22759.509325436466
+48,male,40.15,0,no,southeast,150,,none,14140.538672552551
+26,male,29.15,1,no,southeast,999,high,diabetes,11250.956220035574
+45,female,39.995,3,no,northeast,130,,none,16850.188793220892
+36,female,29.92,0,no,southeast,140,,?,15727.512824745429
+54,male,25.46,1,no,northeast,,low,diabetes,10733.693084196322
+34,male,21.375,0,no,northeast,150,,diabetes,7547.547721246035
+31,male,25.9,3,yes,southwest,,medium,N/A,28375.972356125865
+27,female,30.59,1,no,northeast,140,high,heart disease,14584.144428558482
+20,male,30.115,5,no,northeast,999,medium,?,9695.913875202536
+44,female,25.8,1,no,southwest,150,high,hypertension,12547.684540221191
+43,male,30.115,3,no,northwest,,,?,11900.099416961184
+45,female,27.645,1,no,northwest,160,,hypertension,7862.192237859641
+34,male,34.675,0,no,northeast,,,hypertension,10254.58701074679
+24,female,20.52,0,yes,northeast,130,high,none,21352.07083510913
+26,female,19.8,1,no,southwest,999,,hypertension,7964.442204970206
+38,female,27.835,2,no,northeast,120,,hypertension,11221.910569409576
+50,female,31.6,2,no,southwest,,,N/A,14302.58329767993
+38,male,28.27,1,no,southeast,150,,diabetes,12073.867648509586
+27,female,20.045,3,yes,northwest,150,medium,?,18535.129875925668
+39,female,23.275,3,no,northeast,N/A,,?,9055.69256636439
+39,female,34.1,3,no,southwest,,low,hypertension,13156.538495537125
+63,female,36.85,0,no,southeast,999,low,heart disease,17932.22617151663
+33,female,36.29,3,no,northeast,999,low,?,10075.844816842418
+36,female,26.885,0,no,northwest,140,high,hypertension,11689.498729998237
+30,male,22.99,2,yes,northwest,N/A,high,none,25175.06384053767
+24,male,32.7,0,yes,southwest,,high,none,27677.477580246443
+24,male,25.8,0,no,southwest,160,,none,9179.581042364785
+48,male,29.6,0,no,southwest,140,high,hypertension,15472.218840310088
+47,male,19.19,1,no,northeast,N/A,medium,N/A,10599.387127666074
+29,male,31.73,2,no,northwest,,low,heart disease,8360.393051166144
+28,male,29.26,2,no,northeast,,,hypertension,8963.366228750863
+47,male,28.215,3,yes,northwest,140,low,N/A,37246.272320392265
+25,male,24.985,2,no,northeast,160,high,N/A,8588.548988467846
+51,male,27.74,1,no,northeast,N/A,,?,11474.769867071445
+48,female,22.8,0,no,southwest,,,hypertension,11920.6491690529
+43,male,20.13,2,yes,southeast,,medium,hypertension,33143.87183030783
+61,female,33.33,4,no,southeast,N/A,high,N/A,19893.047067783184
+48,male,32.3,1,no,northwest,120,high,N/A,13525.519281301673
+38,female,27.6,0,no,southwest,140,medium,N/A,13145.099726439486
+59,male,,0,no,northwest,140,medium,?,14420.390606254363
+19,female,24.605,1,no,northwest,150,,hypertension,5556.754179211579
+26,female,34.2,2,no,southwest,160,high,N/A,9890.264125581736
+54,female,35.815,3,no,northwest,130,high,none,16994.891290957486
+21,female,32.68,2,no,northwest,120,low,hypertension,7252.480882582171
+51,male,37.0,0,,southwest,N/A,,?,14294.523517870639
+22,female,31.02,3,yes,southeast,N/A,,none,30515.033962640886
+47,male,36.08,1,yes,southeast,N/A,low,diabetes,39420.68126787572
+18,male,23.32,1,no,southeast,120,,hypertension,10975.336652965894
+47,female,45.32,1,no,southeast,,medium,diabetes,16964.78772375185
+21,female,34.6,0,no,southwest,N/A,,N/A,8737.839358323714
+19,male,26.03,1,yes,northwest,N/A,,?,23006.123204117466
+23,male,18.715,0,no,northwest,160,low,N/A,4259.540790419758
+54,male,31.6,0,no,southwest,999,,?,9537.619168703266
+37,female,17.29,2,no,northeast,999,,heart disease,8130.9993294636015
+46,female,23.655,1,yes,northwest,150,,N/A,28701.236943380336
+55,female,35.2,0,yes,southeast,150,,diabetes,42683.17726057549
+30,female,27.93,0,no,northeast,N/A,low,?,12094.412630260576
+18,male,21.565,0,yes,northeast,160,,N/A,17967.074450892367
+61,male,38.38,0,no,northwest,N/A,low,hypertension,13956.671869320711
+54,female,23.0,3,no,southwest,150,medium,?,12993.492260610843
+22,male,37.07,2,yes,southeast,120,low,?,29691.785805394124
+45,female,30.495,1,yes,northwest,120,medium,N/A,30321.864680563587
+22,male,28.88,0,no,northeast,,medium,heart disease,10783.928994776415
+19,male,27.265,2,no,northwest,130,low,N/A,8551.33962652625
+35,female,28.025,0,yes,northwest,999,high,diabetes,26436.099299813155
+18,male,23.085,0,no,northeast,160,low,diabetes,10832.383417868274
+20,male,30.685,0,yes,northeast,140,,?,23769.050984020796
+28,female,25.8,0,no,southwest,999,,?,7242.038337924258
+55,male,35.245,1,no,northeast,140,high,N/A,14347.005503147811
+43,female,24.7,2,yes,northwest,130,medium,diabetes,29064.745489668603
+43,female,25.08,0,no,northeast,130,high,diabetes,8650.439915349922
+22,male,52.58,1,yes,southeast,N/A,,heart disease,41578.01111075733
+25,female,22.515,1,no,northwest,150,high,hypertension,6766.711488227111
+49,male,30.9,0,,southwest,130,low,heart disease,11333.463165315585
+44,Unknown,36.955,1,no,northwest,130,high,none,14035.251516508133
+64,male,26.41,0,no,northeast,140,medium,heart disease,18505.619226944847
+49,male,29.83,1,no,northeast,150,low,N/A,14709.671293240917
+47,male,29.8,3,yes,southwest,130,,hypertension,37601.988939003975
+27,female,21.47,0,no,northwest,999,,N/A,8416.81695365169
+55,male,27.645,0,no,northwest,,,none,12472.183038687166
+48,female,28.9,0,no,southwest,130,high,hypertension,12952.231618152848
+45,female,31.79,0,no,southeast,,low,?,15259.710992489552
+24,female,39.49,0,no,southeast,150,,diabetes,14188.960883172085
+32,male,33.82,1,no,northwest,N/A,low,heart disease,9558.563943790788
+24,male,32.01,0,no,southeast,160,,N/A,10030.006154498262
+57,male,27.94,1,no,southeast,150,low,none,18175.500481431984
+59,male,41.14,1,yes,southeast,140,,diabetes,51723.69774540292
+36,male,28.595,3,no,northwest,160,high,heart disease,15110.506265085673
+29,female,25.6,4,no,southwest,999,medium,diabetes,15901.085732247939
+42,female,25.3,1,no,southwest,120,low,heart disease,14598.899128838993
+48,male,37.29,2,no,southeast,,medium,?,12811.77534097466
+39,male,42.655,0,no,northeast,,,hypertension,16943.20382241057
+63,male,21.66,1,no,northwest,,high,diabetes,11731.528072935987
+54,female,31.9,1,no,southeast,150,high,diabetes,17672.50994861122
+37,male,37.07,1,yes,southeast,,low,diabetes,34971.56322674797
+63,male,31.445,0,no,northeast,N/A,high,hypertension,16573.1493592281
+21,male,31.255,0,no,northwest,,low,none,10205.653178283981
+54,female,28.88,2,no,northeast,140,low,heart disease,16067.923619543972
+60,female,18.335,0,no,northeast,999,medium,?,10157.565698652259
+32,female,29.59,1,no,southeast,,high,diabetes,13639.980948585368
+47,female,32.0,1,no,southwest,,low,hypertension,14857.982726837
+21,male,26.03,0,no,northeast,160,medium,none,6865.200276827171
+28,male,31.68,0,yes,southeast,999,,heart disease,33429.25063302357
+63,male,33.66,3,no,southeast,,medium,hypertension,19765.054211757764
+18,male,21.78,2,no,southeast,150,medium,?,7471.982217657178
+32,male,27.835,1,no,northwest,130,low,?,9720.197714435439
+38,male,19.95,1,no,northwest,N/A,,heart disease,11170.437971235764
+32,male,31.5,1,no,southwest,150,,diabetes,9233.629296080755
+62,female,30.495,2,no,northwest,120,,?,12616.240242173368
+39,female,18.3,5,yes,southwest,150,medium,none,28844.971815912962
+55,male,28.975,0,no,northeast,160,low,hypertension,12101.330749265911
+57,male,31.54,0,no,northwest,160,high,none,19713.70834984681
+52,male,47.74,1,no,southeast,,medium,diabetes,21396.100829301122
+56,male,22.1,0,no,southwest,150,medium,none,14924.66878648234
+47,male,36.19,0,yes,southeast,160,low,none,42027.31544130529
+55,female,29.83,0,no,northeast,130,,N/A,14685.344057798833
+23,male,32.7,3,no,southwest,999,medium,none,9281.229150104245
+22,female,30.4,0,yes,northwest,150,,heart disease,21411.538936909266
+50,female,33.7,4,no,southwest,N/A,,hypertension,17348.616350390912
+18,female,31.35,4,no,northeast,130,,N/A,9171.560786406779
+51,Unknown,34.96,2,yes,northeast,,low,hypertension,36170.71050940533
+22,male,33.77,0,no,southeast,999,,hypertension,12981.347391817384
+52,female,30.875,0,no,northeast,N/A,low,diabetes,17360.54645690707
+25,female,33.99,1,no,southeast,,,diabetes,9765.218023692643
+33,female,19.095,2,yes,northeast,N/A,low,N/A,25174.352122279448
+53,male,28.6,3,no,southwest,,medium,?,15160.265099020275
+29,?,38.94,1,no,southeast,N/A,,diabetes,15424.849973867491
+58,male,36.08,0,no,southeast,999,low,diabetes,18141.711630924045
+37,male,29.8,0,no,southwest,130,high,diabetes,12783.749583441546
+54,female,31.24,0,no,southeast,N/A,low,hypertension,16618.255047349485
+49,female,29.925,0,no,northwest,N/A,,N/A,15237.536882122658
+50,female,26.22,2,no,northwest,140,,hypertension,13817.427875722937
+26,male,,1,no,southwest,150,,heart disease,9670.13208577357
+45,male,20.35,3,no,southeast,999,,hypertension,9042.814365871925
+54,female,32.3,1,no,northeast,,medium,heart disease,15816.798518461213
+38,male,38.39,3,yes,southeast,999,medium,none,38733.67496433864
+48,female,25.85,3,yes,southeast,160,,none,35189.75917280987
+28,female,26.315,3,no,northwest,,,heart disease,8715.038026858741
+23,male,24.51,0,no,northeast,999,,heart disease,9592.883247464282
+55,male,32.67,1,no,southeast,130,medium,hypertension,20174.357828772576
+41,male,29.64,5,no,northeast,,,heart disease,16870.851345936124
+25,male,33.33,2,yes,southeast,,medium,N/A,34305.55857282729
+33,male,35.75,1,yes,southeast,999,,none,35495.47690338617
+30,female,,3,no,northwest,,low,none,10044.056584129577
+23,female,31.4,0,yes,southwest,140,high,?,24184.530965784004
+46,male,38.17,2,no,southeast,150,low,heart disease,16388.475696513604
+53,female,36.86,3,yes,northwest,,,diabetes,40205.33140247556
+27,female,32.395,1,no,northeast,150,high,diabetes,10706.724069883847
+23,female,42.75,1,yes,northeast,999,high,heart disease,31343.26424473489
+63,female,25.08,0,no,northwest,N/A,,N/A,14395.18243864648
+55,male,29.9,0,no,southwest,120,,diabetes,14447.515493755554
+35,female,35.86,2,no,southeast,120,medium,?,10932.91618328691
+34,male,32.8,1,no,southwest,N/A,,heart disease,13232.68743978464
+19,female,18.6,0,no,southwest,N/A,,N/A,8400.880099817048
+39,female,23.87,5,no,southeast,N/A,,N/A,14505.097725158736
+27,male,45.9,2,no,southwest,130,,hypertension,14155.590393972927
+57,male,40.28,0,no,northeast,120,,N/A,13205.265519685516
+52,female,18.335,0,no,northwest,N/A,medium,diabetes,15923.709647270953
+28,male,33.82,0,no,northwest,130,,diabetes,8466.07398706486
+50,female,,3,no,northwest,160,low,heart disease,12958.318666407054
+44,female,25.0,1,no,southwest,,,heart disease,11359.902380509815
+26,female,22.23,0,no,northwest,130,medium,N/A,10587.801767589805
+33,male,30.25,0,no,southeast,120,,?,12309.175550843982
+19,female,32.49,0,yes,northwest,999,,none,22469.197690614237
+50,male,37.07,1,no,southeast,160,,hypertension,16390.56115513581
+41,female,32.6,3,no,southwest,120,medium,none,13226.808743550333
+52,female,24.86,0,no,southeast,,high,N/A,15133.654544456227
+39,male,32.34,2,no,southeast,130,,N/A,14760.076322631383
+50,male,32.3,2,no,southwest,140,low,none,14823.35077217671
+52,male,32.775,3,no,northwest,150,medium,hypertension,17661.458613544506
+60,male,32.8,0,,southwest,,,none,15497.20349441807
+20,female,31.92,0,no,northwest,120,,heart disease,12882.090116929649
+55,male,21.5,1,no,southwest,N/A,low,diabetes,11297.71301419405
+42,male,34.1,0,no,southwest,130,,?,11604.861418059976
+18,female,30.305,0,no,northeast,N/A,medium,heart disease,13917.954799610397
+58,female,36.48,0,no,northwest,N/A,low,diabetes,15405.571073959272
+43,female,32.56,3,yes,southeast,N/A,,?,40673.3940047805
+35,female,35.815,1,no,northwest,N/A,medium,?,9925.45149768716
+48,female,27.93,4,no,northwest,N/A,,?,13618.086326861478
+36,female,22.135,3,no,northeast,160,medium,N/A,10443.320897718337
+19,male,44.88,0,yes,southeast,120,high,?,32913.978714142555
+23,female,23.18,2,no,northwest,,medium,hypertension,10458.563600623886
+20,female,30.59,0,no,northeast,120,high,none,9292.182926552749
+32,female,41.1,0,no,southwest,,medium,hypertension,13500.81429716767
+43,female,34.58,1,no,northwest,150,high,none,14819.221878877353
+34,male,42.13,2,no,southeast,130,,heart disease,16093.29519000761
+30,male,38.83,1,no,southeast,140,,heart disease,18841.407696963182
+18,female,28.215,0,no,northeast,160,high,none,10252.180702526426
+41,female,28.31,1,no,northwest,130,high,hypertension,11507.056446072891
+35,female,26.125,0,no,northeast,160,,none,12782.862551110118
+57,male,40.37,0,no,southeast,,high,?,20616.075929961073
+29,female,24.6,2,no,southwest,120,low,N/A,9788.441225369075
+32,male,35.2,2,no,southwest,N/A,,heart disease,12701.092673595018
+37,female,34.105,1,,northwest,150,low,N/A,14546.528360909018
+18,male,27.36,1,yes,northeast,150,,?,21543.74390293111
+43,female,26.7,2,yes,southwest,999,high,?,29347.82817252913
+56,female,41.91,0,no,southeast,140,low,heart disease,18626.980801989757
+38,male,29.26,2,no,northwest,150,high,heart disease,10659.612955791752
+29,male,32.11,2,no,northwest,N/A,,?,13469.145141082716
+22,female,27.1,0,no,southwest,120,high,diabetes,10794.307759125948
+52,?,,1,yes,northwest,140,low,N/A,34749.22587548724
+40,female,27.4,1,no,southwest,,low,N/A,9010.08803167139
+23,female,34.865,0,no,northeast,130,high,diabetes,9830.894900949113
+31,male,29.81,0,yes,southeast,,medium,hypertension,30041.864291024354
+42,female,41.325,1,no,northeast,N/A,,N/A,14531.447643504274
+24,female,29.925,0,no,northwest,N/A,,none,9539.826694834963
+25,female,30.3,0,no,southwest,150,high,?,6916.161023922259
+48,female,27.36,1,no,northeast,140,medium,?,18177.110690653495
+23,female,28.49,1,yes,southeast,120,low,diabetes,29013.124930390026
+45,male,23.56,2,no,northeast,,,N/A,11890.367583674903
+20,male,35.625,3,yes,northwest,999,,hypertension,30484.398928725004
+62,female,32.68,0,no,northwest,,high,N/A,13571.246506106516
+43,female,25.27,1,yes,northeast,160,medium,?,31165.682914161196
+23,female,28.0,0,no,southwest,160,medium,heart disease,8663.526582609156
+31,female,32.775,2,no,northwest,120,,none,14441.978194818501
+41,female,21.755,1,no,northeast,120,low,diabetes,12503.64294812319
+58,female,32.395,1,no,northeast,160,medium,heart disease,18670.260752070666
+48,female,36.575,0,no,northwest,999,,hypertension,14516.674395356187
+31,female,21.755,0,no,northwest,140,low,heart disease,4581.2951922767725
+19,female,27.93,3,no,northwest,160,low,heart disease,8996.794096104897
+19,female,30.02,0,yes,northwest,120,high,hypertension,21959.845708555218
+41,male,33.55,0,no,southeast,150,medium,heart disease,13401.320803129134
+40,male,29.355,1,no,northwest,130,high,diabetes,9967.525549187852
+31,female,25.8,2,no,southwest,999,medium,?,13232.247591458256
+37,male,24.32,2,no,northwest,N/A,,N/A,12826.79847619456
+46,male,40.375,2,no,northwest,999,high,heart disease,13041.936153824392
+22,male,32.11,0,no,northwest,150,high,diabetes,6513.511322044598
+51,male,32.3,1,no,northeast,150,,N/A,16059.902279378248
+18,female,27.28,3,yes,southeast,N/A,high,N/A,24581.049054910407
+35,male,17.86,1,no,northwest,,medium,heart disease,5099.00763764385
+59,female,34.8,2,no,southwest,120,,diabetes,13594.26537668627
+36,male,33.4,2,yes,southwest,160,high,?,32255.09536238768
+37,female,25.555,1,yes,northeast,,high,heart disease,29797.495700058673
+59,male,37.1,1,no,southwest,140,,hypertension,13700.67933993636
+36,male,30.875,1,no,northwest,999,high,N/A,11789.935143566816
+39,male,34.1,2,no,southeast,N/A,low,heart disease,19745.561684517153
+18,male,21.47,0,no,northeast,999,,N/A,3262.9819021847625
+52,female,33.3,2,no,southwest,,low,diabetes,12709.787668785102
+27,female,31.255,1,no,northwest,150,,none,8605.622733331506
+18,male,39.14,0,no,northeast,160,,heart disease,8312.460106674964
+40,male,25.08,0,no,southeast,999,high,?,16242.939382799716
+29,male,37.29,2,no,southeast,140,high,heart disease,13351.688092453087
+46,female,34.6,1,yes,southwest,150,high,N/A,35466.93633454153
+38,female,30.21,3,no,northwest,140,,diabetes,12545.8806835247
+30,female,21.945,1,no,northeast,160,high,hypertension,3137.580129020006
+40,male,24.97,2,no,southeast,999,low,?,10932.931458985333
+50,male,25.3,0,no,southeast,130,high,diabetes,17158.437623516496
+20,female,24.42,0,yes,southeast,,,heart disease,24522.378604856145
+41,male,23.94,1,no,northeast,999,low,hypertension,10799.094995436893
+33,female,39.82,1,no,southeast,,high,diabetes,12717.89085094955
+38,male,16.815,2,no,northeast,160,high,none,8864.822892558777
+42,male,37.18,2,no,southeast,999,medium,?,17890.5562454113
+56,male,34.43,0,no,southeast,,,N/A,17437.4399497124
+58,male,30.305,0,no,northeast,N/A,low,diabetes,16965.753626013888
+52,male,34.485,3,yes,northwest,,medium,diabetes,35580.12680784226
+20,female,21.8,0,yes,southwest,999,,none,18768.798849499548
+54,female,24.605,3,no,northwest,120,,heart disease,16379.141689146498
+58,male,23.3,0,no,southwest,999,low,?,11780.795560825987
+45,female,27.83,2,,southeast,999,high,?,11274.748336270246
+26,male,31.065,0,no,northwest,,low,N/A,12198.63180451804
+63,female,21.66,0,no,northeast,140,high,diabetes,14325.659354076415
+58,female,28.215,0,no,northwest,130,,hypertension,14433.148012145417
+37,male,22.705,3,no,northeast,140,high,diabetes,8796.941811115952
+25,female,42.13,1,no,southeast,,,N/A,12176.312469409166
+52,male,41.8,2,yes,southeast,140,high,diabetes,46243.221734190316
+64,male,36.96,2,yes,southeast,150,,none,46777.170248807226
+22,female,21.28,3,no,northwest,120,,diabetes,10614.362508428243
+28,female,33.11,0,no,southeast,140,,diabetes,15516.868553746483
+18,male,33.33,0,no,southeast,N/A,low,hypertension,12027.21519965263
+28,male,24.3,5,no,southwest,160,,none,9276.484322768176
+45,female,25.7,3,no,southwest,N/A,,none,13860.475570631643
+33,male,29.4,4,no,southwest,160,medium,diabetes,9351.318202577235
+18,female,39.82,0,no,southeast,999,medium,?,13332.344885429391
+32,male,33.63,1,yes,northeast,150,medium,hypertension,30774.896679828176
+24,male,29.83,0,,northeast,120,high,diabetes,9109.434841334598
+19,male,19.8,0,no,southwest,N/A,medium,diabetes,8185.218205918993
+20,male,27.3,0,yes,southwest,120,,N/A,20531.05505451012
+40,female,,4,no,southwest,N/A,high,N/A,13883.698872390676
+34,female,27.72,0,no,southeast,999,,?,16799.76510238966
+42,female,37.9,0,no,southwest,160,low,hypertension,17674.23165552912
+51,female,36.385,3,no,northwest,130,medium,heart disease,15251.698931966695
+54,female,27.645,1,no,northwest,150,,N/A,12302.1158026741
+55,male,37.715,3,no,northwest,N/A,,heart disease,15893.42391060057
+52,female,23.18,0,no,northeast,N/A,low,none,11291.8512710535
+32,female,20.52,0,no,northeast,999,,N/A,8583.806765592684
+28,male,37.1,1,no,southwest,150,low,N/A,9831.88002135164
+41,female,28.05,1,no,southeast,160,medium,hypertension,13946.918160627005
+43,female,,1,no,southwest,160,,?,13803.608472140553
+49,female,33.345,2,no,northeast,N/A,low,heart disease,12211.017385938705
+64,male,23.76,0,yes,southeast,130,,N/A,40395.77736340304
+55,female,30.5,0,no,southwest,130,medium,N/A,14622.237396247203
+24,male,31.065,0,yes,northeast,120,medium,hypertension,25399.441034748044
+20,female,33.3,0,no,southwest,150,,hypertension,10661.127339899882
+45,male,27.5,3,no,southwest,150,,?,14252.83665771254
+26,male,33.915,1,no,northwest,160,low,heart disease,12931.342268004584
+25,female,34.485,0,no,northwest,120,high,none,13205.688622384583
+43,male,25.52,5,no,southeast,999,medium,?,16588.257961062813
+35,male,27.61,1,no,southeast,150,low,none,12227.500901147476
+26,male,27.06,0,yes,southeast,120,,diabetes,25225.398975669857
+57,male,23.7,0,no,southwest,120,low,N/A,14163.830795412827
+22,female,30.4,0,no,northeast,N/A,,heart disease,10586.437893061848
+32,female,29.735,0,no,northwest,160,,?,10111.352881427312
+39,male,29.925,1,yes,northeast,120,,N/A,34267.23360833868
+25,female,26.79,2,no,northwest,,,heart disease,9271.40093558466
+48,female,33.33,0,no,southeast,130,,heart disease,16970.963238846103
+47,female,27.645,2,yes,northwest,,high,heart disease,32385.500438543935
+18,female,21.66,0,yes,northeast,130,,N/A,17739.645100932463
+18,male,30.03,1,no,southeast,140,medium,?,8437.460633830757
+61,male,36.3,1,yes,southwest,160,medium,hypertension,41260.76754081687
+47,female,24.32,0,no,northeast,N/A,low,N/A,14708.293036104276
+28,female,,0,no,northeast,999,high,heart disease,7069.890826406059
+36,female,25.9,1,no,southwest,,low,?,11532.779980510857
+20,male,39.4,2,yes,southwest,,medium,diabetes,29548.27710088458
+44,male,34.32,1,no,southeast,140,medium,none,11493.003361219522
+38,female,19.95,2,no,northeast,130,,heart disease,8539.983192736161
+19,male,34.9,0,yes,southwest,N/A,,diabetes,26672.500148358493
+21,male,23.21,0,no,southeast,140,medium,hypertension,9155.635178276743
+46,male,,3,no,northwest,160,low,heart disease,15325.358346305464
+58,male,25.175,0,no,northeast,N/A,low,diabetes,12686.655409240848
+20,male,22.0,1,no,southwest,160,,heart disease,8952.756242678715
+18,male,26.125,0,no,northeast,120,,N/A,7710.94989762495
+28,female,26.51,2,no,southeast,150,,?,8920.708686806951
+33,male,27.455,2,no,northwest,120,high,diabetes,7463.523578263352
+19,female,25.745,1,no,northwest,160,low,?,9338.967184145871
+45,male,30.36,0,yes,southeast,,,N/A,33244.06045324735
+62,male,30.875,3,yes,northwest,N/A,low,N/A,37930.565528849904
+25,female,20.8,1,no,southwest,130,,?,8691.30678713846
+43,male,27.8,0,,southwest,999,medium,diabetes,8163.332858647744
+42,male,24.605,2,yes,northeast,130,low,?,26978.238116258493
+24,female,27.72,0,no,southeast,N/A,medium,?,7757.644811069531
+29,female,21.85,0,yes,northeast,120,low,none,22139.60482323056
+32,male,28.12,4,yes,northwest,999,high,diabetes,30855.769144907063
+25,female,30.2,0,yes,southwest,N/A,,none,25763.83616721892
+41,male,32.2,2,no,southwest,160,medium,heart disease,13996.654988714812
+42,male,26.315,1,no,northwest,,,?,12402.654989495813
+33,female,26.695,0,no,northwest,130,high,heart disease,14277.540992968954
+34,male,,1,no,southwest,160,low,diabetes,8989.281942336238
+19,female,34.7,2,yes,southwest,999,medium,?,27841.765725852103
+30,female,23.655,3,yes,northwest,999,low,heart disease,24673.130845058324
+18,male,28.31,1,no,northeast,130,low,hypertension,10891.939484718274
+19,female,20.6,0,no,southwest,160,low,N/A,8853.56502586072
+18,male,53.13,0,no,southeast,140,,?,17120.280029063848
+35,male,39.71,4,no,northeast,160,,N/A,14893.89469515631
+39,female,26.315,2,no,northwest,999,,none,11287.813975015812
+31,male,31.065,3,no,northwest,160,medium,heart disease,11330.312442522223
+62,male,26.695,0,yes,northeast,,high,none,38867.96430284193
+62,male,38.83,0,no,southeast,N/A,high,?,17562.091900482017
+42,female,40.37,2,yes,southeast,120,high,N/A,42224.54999301064
+31,male,25.935,1,no,northwest,,low,N/A,9109.942650036957
+61,male,33.535,0,no,northeast,140,,heart disease,16085.36883967562
+42,female,32.87,0,no,northeast,150,medium,?,12951.71714608998
+51,male,30.03,1,no,southeast,N/A,low,hypertension,16874.79187483764
+23,female,24.225,2,no,northeast,120,,hypertension,8437.67367991293
+52,male,38.6,2,no,southwest,150,,heart disease,15682.214227175326
+57,female,25.74,2,no,southeast,130,medium,?,17292.863413300474
+23,female,33.4,0,no,southwest,150,medium,heart disease,7460.385704448838
+52,female,44.7,3,no,southwest,N/A,medium,?,18778.33507276948
+50,male,30.97,3,no,northwest,160,low,none,14870.452351076026
+18,female,31.92,0,no,northeast,N/A,,heart disease,11680.442038900406
+18,female,36.85,0,no,southeast,,medium,?,11505.40076340837
+21,female,25.8,0,no,southwest,150,,hypertension,6970.836791134838
+61,female,29.07,0,yes,northwest,999,low,?,39831.58921446497
