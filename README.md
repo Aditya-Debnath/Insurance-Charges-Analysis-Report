@@ -18,8 +18,6 @@ A comparative analysis of two insurance datasets to explore data characteristics
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Repository Structure](#repository-structure)
-- [Installation & Usage](#installation--usage)
-- [Team](#team)
 - [Acknowledgments](#acknowledgments)
 
 ## Project Overview
